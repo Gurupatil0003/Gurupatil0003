@@ -22,8 +22,8 @@
 
 </p> 
 <p align="center"> 
-    <a href="https://github.com/milaan9" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@milaan9-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/milaanparmar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-milaanparmar-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@milaan9-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/guranna-gouda-039870228/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-milaanparmar-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="https://www.researchgate.net/profile/Milan-Parmar" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-Milaan&#8208;Parmar-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
     <a href="https://orcid.org/0000-0002-7596-407X" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-0000&#8208;0002&#8208;7596&#8208;407X-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
     <a href="https://publons.com/researcher/3190369/milan-parmar" target="_blank"><img alt="publons" src="https://img.shields.io/badge/-Milan Parmar-336699?style=flat-square&logo=PUBLONS&logoColor=white"></a>
@@ -149,10 +149,9 @@
 <!--https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master-->
 </p>
 
-<!--
+
 [![DOI](https://zenodo.org/badge/200104059.svg)](https://zenodo.org/badge/latestdoi/200104059)
 - 📄 [Resume](https://sudhanshu456.github.io/stages/updated_resume.pdf) 
 ![Sudhanshu Prajapati's github stats](https://github-readme-stats.vercel.app/api?username=sudhanshu456&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu456&layout=compact)](https://github.com/sudhanshu456)
 - 💻Checkout my [portfolio](https://sudhanshu456.github.io/)
--->
