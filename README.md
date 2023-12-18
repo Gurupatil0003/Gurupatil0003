@@ -55,7 +55,7 @@
 
 #### BIO
 
-- 🏢 Postdoctoral Associate at **Mississippi State University**
+- 🏢 Computational Data Sciennce **Case western Reserve University**
 - 🔭 Area of interest is in <img src="https://img.shields.io/badge/Pattern Recognition-green"> and <img src="https://img.shields.io/badge/Anomaly Identification-red">
 - 🎯 Specifically interested in finding hidden patterns, rules and knowledge from a dataset.
 - 🌱 Learning all about <img src="https://img.shields.io/badge/Artificial Intelligence-brown"> and <img src="https://img.shields.io/badge/Cyber Security-008080">
