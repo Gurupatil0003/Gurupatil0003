@@ -25,7 +25,7 @@
     <a href="https://github.com/Gurupatil0003" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Gurupatil0003-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/guranna-gouda-039870228/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Guranna Gouda-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="https://www.researchgate.net/profile/Milan-Parmar" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-Guranna&#8208;Gouda-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-    <a href="https://orcid.org/0000-0002-7596-407X" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-0000&#8208;0002&#8208;7596&#8208;407X-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
+    <a href="https://orcid.org/0000-0002-7596-407X" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-Guranna Gouda0000&#8208;0002&#8208;7596&#8208;407X-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
     <a href="https://publons.com/researcher/3190369/milan-parmar" target="_blank"><img alt="publons" src="https://img.shields.io/badge/-Guranna Gouda-336699?style=flat-square&logo=PUBLONS&logoColor=white"></a>
     <a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="GoogleScholar" src="https://img.shields.io/badge/-Guranna Gouda-4885ED?style=flat-square&logo=Google-Scholar&logoColor=white"></a>
     <img alt="WeChat" src="https://img.shields.io/badge/-Gurupatil0003-4C1?style=flat-square&logo=wechat&logoColor=white"></a>
