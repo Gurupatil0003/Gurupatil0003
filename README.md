@@ -40,12 +40,12 @@
 
 <table align="right">
     <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
-    <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197408.svg" height="15"> English ★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197408.svg" height="15"> Kannada ★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197408.svg" height="15"> Hindi ★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197408.svg" height="15"> Telugu ★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197408.svg" height="15"> Tamil ★★☆</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197408.svg" height="15"> malayalam ★★☆</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/3909444.png" height="15"> English ★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/3909444.png" height="15"> Kannada ★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/3909444.png" height="15"> Hindi ★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/3909444.png" height="15"> Telugu ★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/3909444.png" height="15"> Tamil ★★☆</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/3909444.png" height="15"> malayalam ★★☆</a></td></tr>
 
 </table>
 
