@@ -31,11 +31,11 @@
     <img alt="WeChat" src="https://img.shields.io/badge/-milaanparmar9-4C1?style=flat-square&logo=wechat&logoColor=white"></a>
     <img alt="Skype" src="https://img.shields.io/badge/milaan.09-blue?flat-square&logo=skype&logoColor=white"></a>
     <!--<a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-portfolio-%23?colorB=orange&style=flat-square&logo=&logoColor=white"></a>-->
-    <!-<a href="https://milaan9.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-web-%23.svg?colorB=orange&style=flat&&logo=&logoColor=white%22"></a>-->
-    <!-<img alt="WeChat" src="https://img.shields.io/static/v1?label=WeChat&message=milaanparmar9&color=7BB32E&logo=wechat"/>-->
-    <!-<img alt="QQ" src="https://img.shields.io/badge/QQ -3086215265-0099ff?style=fflat-square&labelColor=FFD43B"></a>-->
-    <!-<img alt="mobile" src="https://img.shields.io/badge/📱 -+8613756537093-white?style=fflat-square&labelColor=white"></a>-->
-    <!-<a href="https://wa.me/+79041599690" target="_blank"><img alt="WhatssApp" src="https://img.shields.io/badge/WhatsApp-%25D366.svg?&style=flat-square&logo=whatsapp&logoColor=white"></a>-->
+    <!--<a href="https://milaan9.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-web-%23.svg?colorB=orange&style=flat&&logo=&logoColor=white%22"></a>-->
+    <!--<img alt="WeChat" src="https://img.shields.io/static/v1?label=WeChat&message=milaanparmar9&color=7BB32E&logo=wechat"/>-->
+    <!--<img alt="QQ" src="https://img.shields.io/badge/QQ -3086215265-0099ff?style=fflat-square&labelColor=FFD43B"></a>-->
+    <img alt="mobile" src="https://img.shields.io/badge/📱 -+8613756537093-white?style=fflat-square&labelColor=white"></a>-->
+    <a href="https://wa.me/+79041599690" target="_blank"><img alt="WhatssApp" src="https://img.shields.io/badge/WhatsApp-%25D366.svg?&style=flat-square&logo=whatsapp&logoColor=white"></a>-->
 </p> 
 
 <table align="right">
@@ -63,7 +63,7 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/> Ping me about <img src="https://img.shields.io/badge/Data Mining-yellow"> and <img src="https://img.shields.io/badge/Data Visualization-purple">
 &nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12"/>&nbsp;&nbsp;
 - Fun fact: Vegetarian🌿 | huge fan of Harry Potter🧙 | Love❤️| Bike <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Motorcycle-Bike.png" width="45"/>
-) | love feeding birds 🕊 | enjoy cooking and hosting dinner <img align ='center' width ='20' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
+ | love feeding birds 🕊 | enjoy cooking and hosting dinner <img align ='center' width ='20' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
 - <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="20" />&nbsp; I enjoy listening music 🎧 going to gym 🏋️‍♂️ play badminton 🏸 and traveling <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">🏝️🗻🌄🗿<img align ='center' width ='20' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18">
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:gurupatil327@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-gurupatil327@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
