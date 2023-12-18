@@ -128,7 +128,7 @@
 <summary><samp>&#9776;</samp> Click for GitHub Stats <i>(click to expand)</i> </summary>
 <p align="center">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gurupatil0003&theme=jolly&show_icons=true" alt="Gurupatil003's Github readme stats">
-    <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=Gurupatil0003&&theme=jolly&show_icons=true" alt="Gurupatil0003"/>
+    <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Gurupatil0003&theme=nightfox&hide_border=true&type=png" alt="GitHub Streak" /></a>
 </p>
 </details>
 
