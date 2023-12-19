@@ -72,18 +72,18 @@
     <a href="https://github.com/milaan9?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
     <a href="https://github.com/milaan9?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen"></a>
     <!--<a href="https://github.com/milaan9?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-★★★-lightgrey?style=flat-square&labelColor=FFD43B&logo=python&logoColor=darkgreen"></a>-->
-    <a href="https://github.com/milaan9?tab=repositories&language=Jupyter Notebook" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003?tab=repositories&language=Jupyter Notebook" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"></a>
     <a href="https://github.com/Gurupatil0003" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"></a>
-    <a href="https://github.com/milaan9/10_Python_Pandas_Module" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"></a>
-    <a href="https://github.com/milaan9/11_Python_Matplotlib_Module" target="_blank"><img alt="Ploty" src="https://img.shields.io/badge/Plotly-%233F4F75?style=flat-square&logo=plotly&logoColor=white"></a>
-    <a href="https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest" target="_blank"><img alt="ScikitLearn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></a>
-    <a href="https://github.com/milaan9/93_Python_Data_Analytics_Projects" target="_blank"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5?style=flat-square&logo=scipy&logoColor=white"></a>
-    <a href="https://github.com/milaan9/93_Python_Data_Analytics_Projects" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>    
-    <a href="https://github.com/milaan9?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-fb4f14?style=flat-square&logo=Mathworks&logoColor=white"></a>
-    <a href="https://github.com/milaan9?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
-    <a href="https://github.com/milaan9?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/milaan9?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>   
-    <a href="https://github.com/milaan9?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003/10_Python_Pandas_Module" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003/11_Python_Matplotlib_Module" target="_blank"><img alt="Ploty" src="https://img.shields.io/badge/Plotly-%233F4F75?style=flat-square&logo=plotly&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003/Python_Decision_Tree_and_Random_Forest" target="_blank"><img alt="ScikitLearn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003/93_Python_Data_Analytics_Projects" target="_blank"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5?style=flat-square&logo=scipy&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003/93_Python_Data_Analytics_Projects" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>    
+    <a href="https://github.com/Gurupatil0003?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-fb4f14?style=flat-square&logo=Mathworks&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>   
+    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
     <!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 </p>
 
