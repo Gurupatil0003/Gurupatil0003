@@ -55,7 +55,7 @@
 
 #### BIO
 
-- I'm <  <img alt="Data Scientist" src="https://img.shields.io/badge/-Data%20Scientist-4E4E4E?style=flat-square&logo=data&logoColor=white"> and   <img alt="AI Engineer" src="https://img.shields.io/badge/-AI%20Engineer-3498DB?style=flat-square&logo=ai&logoColor=white">
+- I'm  <img alt="Data Scientist" src="https://img.shields.io/badge/-Data%20Scientist-4E4E4E?style=flat-square&logo=data&logoColor=white">@Soothsayer Analytics and <img alt="AI Engineer" src="https://img.shields.io/badge/-AI%20Engineer-3498DB?style=flat-square&logo=ai&logoColor=white">@TuringMinds.Ai
 - 🏢 Computational Data Sciennce **Case western Reserve University**
 - 🔭 Area of interest is in <img src="https://img.shields.io/badge/Pattern Recognition-green"> and <img src="https://img.shields.io/badge/Anomaly Identification-red">
 - 🎯 Specifically interested in finding hidden patterns, rules and knowledge from a dataset.
