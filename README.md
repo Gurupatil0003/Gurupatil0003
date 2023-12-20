@@ -247,6 +247,23 @@
   <img alt="Supervised and Unsupervised Algorithms" src="https://img.shields.io/badge/-Supervised%20and%20Unsupervised%20Algorithms-4DB6AC?style=flat-square&logo=machine%20learning&logoColor=white">
 </a>
 <a href="#" target="_blank"><img alt="Linear Regression" src="https://img.shields.io/badge/-Linear%20Regression-3498DB?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="Logistic Regression" src="https://img.shields.io/badge/-Logistic%20Regression-4DB6AC?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="Decision Trees" src="https://img.shields.io/badge/-Decision%20Trees-2ECC71?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="Random Forest" src="https://img.shields.io/badge/-Random%20Forest-27AE60?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="SVM" src="https://img.shields.io/badge/-SVM-F39C12?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="Naive Bayes" src="https://img.shields.io/badge/-Naive%20Bayes-F7DC6F?style=flat-square&logo=python&logoColor=black"></a>
+<a href="#" target="_blank"><img alt="KNN" src="https://img.shields.io/badge/-KNN-884EA0?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="XGBoost" src="https://img.shields.io/badge/-XGBoost-6A1B9A?style=flat-square&logo=xgboost&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="K-Means Clustering" src="https://img.shields.io/badge/-K--Means%20Clustering-3498DB?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="Hierarchical Clustering" src="https://img.shields.io/badge/-Hierarchical%20Clustering-2ECC71?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="DBSCAN" src="https://img.shields.io/badge/-DBSCAN-27AE60?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="PCA" src="https://img.shields.io/badge/-PCA-F39C12?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="Self-Training" src="https://img.shields.io/badge/-Self--Training-6A1B9A?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="Q-Learning" src="https://img.shields.io/badge/-Q--Learning-2ECC71?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="DQN" src="https://img.shields.io/badge/-DQN-27AE60?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="Policy Gradient Methods" src="https://img.shields.io/badge/-Policy%20Gradient%20Methods-F39C12?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="Association Rule Learning" src="https://img.shields.io/badge/-Association%20Rule%20Learning-884EA0?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="Isolation Forest" src="https://img.shields.io/badge/-Isolation%20Forest-6A1B9A?style=flat-square&logo=python&logoColor=white"></
 
 
 <!-- Example for Data Pre-Processing -->
