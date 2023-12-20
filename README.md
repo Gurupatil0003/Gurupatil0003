@@ -83,10 +83,13 @@
 </a>
 
 <!-- Example for Pandas -->
-<a href="https://github.com/Gurupatil0003" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"></a>
+<a href="https://github.com/Gurupatil0003" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+</a>
 
 <!-- Example for Matplotlib -->
-<a href="https://github.com/Gurupatil0003" target="_blank"><img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"></a>
+<a href="https://github.com/Gurupatil0003" target="_blank">
+<img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white">
+</a>
 
 <!-- Example for Seaborn -->
 <a href="https://github.com/Gurupatil0003" target="_blank"> 
@@ -99,7 +102,8 @@
 </a>
 
 <!-- Example for Scikit-learn -->
-<a href="https://github.com/Gurupatil0003" target="_blank"><img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+<a href="https://github.com/Gurupatil0003" target="_blank">
+<img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
 </a>
 
 <!-- Example for TensorFlow -->
@@ -108,10 +112,13 @@
 </a>
 
 <!-- Example for Keras -->
-<a href="https://github.com/Gurupatil0003" target="_blank"><img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white"></a>
+<a href="https://github.com/Gurupatil0003" target="_blank">
+<img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white">
+</a>
 
 <!-- Example for OpenCV -->
-<a href="https://github.com/Gurupatil0003" target="_blank"><img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+<a href="https://github.com/Gurupatil0003" target="_blank">
+<img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
 </a>
 
 
@@ -121,7 +128,9 @@
 </a>
 
 <!-- Example for PySpark -->
-<a href="https://github.com/Gurupatil0003" target="_blank"> <img alt="PySpark" src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white"></a>
+<a href="https://github.com/Gurupatil0003" target="_blank">
+<img alt="PySpark" src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white">
+</a>
 
 <!-- Example for Beautiful Soup -->
 <a href="https://github.com/Gurupatil0003" target="_blank">
