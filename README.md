@@ -58,7 +58,7 @@
 
 - <img alt="AI Engineer" src="https://img.shields.io/badge/-AI%20Engineer-3498DB?style=flat-square&logo=ai&logoColor=white">&nbsp;&nbsp;&nbsp;<img alt="Black Arrow Badge" src="https://img.shields.io/badge/→-000000?style=flat-square"><img alt="@" src="https://img.shields.io/badge/@-red?style=flat-square&logoColor=white"><img alt="Turing Minds.Ai" src="https://img.shields.io/badge/-Turing%20Minds.Ai-4DB6AC?style=flat-square&logo=ai&logoColor=white"><img alt="And" src="https://img.shields.io/badge/And-black?style=flat-square&logoColor=white"><img alt="Meraki IT Solutions" src="https://img.shields.io/badge/Meraki%20IT%20Solutions-3498DB?style=flat-square"> 
 
-- <img alt="Mentor" src="https://img.shields.io/badge/Mentor-yellow?style=flat-square"><img alt="Black Arrow Badge" src="https://img.shields.io/badge/→-000000?style=flat-square">&nbsp;&nbsp;&nbsp;<img alt="@" src="https://img.shields.io/badge/@-red?style=flat-square&logoColor=white"><img alt="Byju's" src="https://img.shields.io/badge/Byju's-3498DB?style=flat-square"></a>
+- <img alt="Mentor" src="https://img.shields.io/badge/Mentor-yellow?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Black Arrow Badge" src="https://img.shields.io/badge/→-000000?style=flat-square"><img alt="@" src="https://img.shields.io/badge/@-red?style=flat-square&logoColor=white"><img alt="Byju's" src="https://img.shields.io/badge/Byju's-3498DB?style=flat-square"></a>
 
 
 #### BIO
