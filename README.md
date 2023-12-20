@@ -90,21 +90,29 @@
     <a href="https://github.com/milaan9?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/CV-%233776AB?style=flat-square&logo=computer-vision&logoColor=white"></a>
     <a href="https://github.com/milaan9?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/LSTM-%23FF6F61?style=flat-square&logo=lstm&logoColor=white"></a>
     <a href="https://github.com/milaan9?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/LLM-%2344BFC8?style=flat-square&logo=llm&logoColor=white"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
+    <!-- Example for Python3 -->
+<a href="https://github.com/Gurupatil0003?tab=repositories&language=python" target="_blank">
+  <img alt="Python3" src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=python&logoColor=white">
+</a>
+
+<!-- Example for Java -->
+<a href="https://github.com/Gurupatil0003?tab=repositories&language=java" target="_blank">
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white">
+</a>
+
+<!-- Repeat the structure for other technologies and skills -->
+
+<!-- Example for Chat GPT -->
+<a href="https://github.com/Gurupatil0003?tab=repositories&language=python" target="_blank">
+  <img alt="Chat GPT" src="https://img.shields.io/badge/-Chat%20GPT-4DB6AC?style=flat-square&logo=python&logoColor=white">
+</a>
+
+<!-- Example for JavaScript -->
+<a href="https://github.com/Gurupatil0003?tab=repositories&language=javascript" target="_blank">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</a>
+
+<!-- Repeat the structure for the remaining technologies and skills -->
 
 
 
