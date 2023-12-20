@@ -71,6 +71,106 @@
 <p align="center">
     <a href="https://github.com/milaan9?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
     <a href="https://github.com/milaan9?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen"></a>
+    <!-- Example for SciPy -->
+<a href="#" target="_blank">
+  <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white">
+</a>
+
+<!-- Example for NumPy -->
+<a href="https://github.com/milaan9?tab=repositories&language=python" target="_blank">
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+</a>
+
+<!-- Example for Pandas -->
+<a href="#" target="_blank">
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+</a>
+
+<!-- Example for Matplotlib -->
+<a href="#" target="_blank">
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white">
+</a>
+
+<!-- Example for Seaborn -->
+<a href="#" target="_blank">
+  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-4EABD1?style=flat-square&logo=seaborn&logoColor=white">
+</a>
+
+<!-- Example for Plotly -->
+<a href="#" target="_blank">
+  <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white">
+</a>
+
+<!-- Example for Scikit-learn -->
+<a href="#" target="_blank">
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+</a>
+
+<!-- Example for TensorFlow -->
+<a href="#" target="_blank">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F61?style=flat-square&logo=tensorflow&logoColor=white">
+</a>
+
+<!-- Example for Keras -->
+<a href="#" target="_blank">
+  <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white">
+</a>
+
+<!-- Example for OpenCV -->
+<a href="#" target="_blank">
+  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+</a>
+
+<!-- Example for NLTK -->
+<a href="#" target="_blank">
+  <img alt="NLTK" src="https://img.shields.io/badge/-NLTK-4E4E4E?style=flat-square&logo=nltk&logoColor=white">
+</a>
+
+<!-- Example for PySpark -->
+<a href="#" target="_blank">
+  <img alt="PySpark" src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white">
+</a>
+
+<!-- Example for Beautiful Soup -->
+<a href="#" target="_blank">
+  <img alt="Beautiful Soup" src="https://img.shields.io/badge/-Beautiful%20Soup-4E4E4E?style=flat-square&logo=python&logoColor=white">
+</a>
+
+<!-- Example for Regex -->
+<a href="#" target="_blank">
+  <img alt="Regex" src="https://img.shields.io/badge/-Regex-4E4E4E?style=flat-square&logo=python&logoColor=white">
+</a>
+
+<!-- Example for PyTorch -->
+<a href="#" target="_blank">
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+</a>
+
+<!-- Example for Jupyter Notebook -->
+<a href="#" target="_blank">
+  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white">
+</a>
+
+<!-- Example for Anaconda -->
+<a href="#" target="_blank">
+  <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
+</a>
+
+<!-- Example for VS Code -->
+<a href="#" target="_blank">
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">
+</a>
+
+<!-- Example for Colab -->
+<a href="#" target="_blank">
+  <img alt="Colab" src="https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=google%20colab&logoColor=white">
+</a>
+
+<!-- Example for Eclipse -->
+<a href="#" target="_blank">
+  <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-2C3E50?style=flat-square&logo=eclipse&logoColor=white">
+</a>
+
     <!--<a href="https://github.com/milaan9?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-★★★-lightgrey?style=flat-square&labelColor=FFD43B&logo=python&logoColor=darkgreen"></a>-->
     <a href="https://github.com/Gurupatil0003?tab=repositories&language=Jupyter Notebook" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"></a>
     <a href="https://github.com/Gurupatil0003" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"></a>
@@ -193,10 +293,103 @@
 <a href="#" target="_blank">
   <img alt="NLP" src="https://img.shields.io/badge/-NLP-4DB6AC?style=flat-square&logo=natural%20language%20processing&logoColor=white">
 </a>
+<!-- Example for Text Pre-Processing -->
+<a href="#" target="_blank">
+  <img alt="Text Pre-Processing" src="https://img.shields.io/badge/-Text%20Pre%20Processing-3498DB?style=flat-square&logo=nlp&logoColor=white">
+</a>
+
+<!-- Example for Tokenization -->
+<a href="#" target="_blank">
+  <img alt="Tokenization" src="https://img.shields.io/badge/-Tokenization-2C3E50?style=flat-square&logo=nlp&logoColor=white">
+</a>
+
+<!-- Example for Part of Speech -->
+<a href="#" target="_blank">
+  <img alt="Part of Speech" src="https://img.shields.io/badge/-Part%20of%20Speech-4DB6AC?style=flat-square&logo=nlp&logoColor=white">
+</a>
+
+<!-- Example for Sentiment Analysis -->
+<a href="#" target="_blank">
+  <img alt="Sentiment Analysis" src="https://img.shields.io/badge/-Sentiment%20Analysis-F7DC6F?style=flat-square&logo=nlp&logoColor=black">
+</a>
+
+<!-- Example for Langchain -->
+<a href="#" target="_blank">
+  <img alt="Langchain" src="https://img.shields.io/badge/-Langchain-3498DB?style=flat-square&logo=nlp&logoColor=white">
+</a>
+
+<!-- Example for ChatGPT -->
+<a href="#" target="_blank">
+  <img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-3498DB?style=flat-square&logo=nlp&logoColor=white">
+</a>
+
+<!-- Example for Named Entity Recognition (NER) -->
+<a href="#" target="_blank">
+  <img alt="NER" src="https://img.shields.io/badge/-NER-2C3E50?style=flat-square&logo=nlp&logoColor=white">
+</a>
+
+<!-- Example for Recurrent Neural Network (RNN) -->
+<a href="#" target="_blank">
+  <img alt="RNN" src="https://img.shields.io/badge/-RNN-4DB6AC?style=flat-square&logo=neural%20network&logoColor=white">
+</a>
+
+<!-- Example for Long Short-Term Memory (LSTM) -->
+<a href="#" target="_blank">
+  <img alt="LSTM" src="https://img.shields.io/badge/-LSTM-3498DB?style=flat-square&logo=neural%20network&logoColor=white">
+</a>
+
+<!-- Example for Gated Recurrent Unit (GRU) -->
+<a href="#" target="_blank">
+  <img alt="GRU" src="https://img.shields.io/badge/-GRU-2C3E50?style=flat-square&logo=neural%20network&logoColor=white">
+</a>
+
+<!-- Example for BERT -->
+<a href="#" target="_blank">
+  <img alt="BERT" src="https://img.shields.io/badge/-BERT-4DB6AC?style=flat-square&logo=nlp&logoColor=white">
+</a>
+
+<!-- Example for State-of-the-Art AI Algorithms -->
+<a href="#" target="_blank">
+  <img alt="State-of-the-Art AI Algorithms" src="https://img.shields.io/badge/-State%20of%20the%20Art%20AI%20Algorithms-F7DC6F?style=flat-square&logo=nlp&logoColor=black">
+</a>
+
+<!-- Example for LLM (Large Language Model) -->
+<a href="#" target="_blank">
+  <img alt="LLM" src="https://img.shields.io/badge/-LLM-3498DB?style=flat-square&logo=nlp&logoColor=white">
+</a>
+
+<!-- Example for Chat GPT Developer -->
+<a href="#" target="_blank">
+  <img alt="Chat GPT Developer" src="https://img.shields.io/badge/-Chat%20GPT%20Developer-2C3E50?style=flat-square&logo=nlp&logoColor=white">
+</a>
+
+<!-- Example for Nerf U-net -->
+<a href="#" target="_blank">
+  <img alt="Nerf U-net" src="https://img.shields.io/badge/-Nerf%20U-net-4DB6AC?style=flat-square&logo=nlp&logoColor=white">
+</a>
 
 <!-- Example for Computer Vision -->
 <a href="#" target="_blank">
   <img alt="Computer Vision" src="https://img.shields.io/badge/-Computer%20Vision-2C3E50?style=flat-square&logo=opencv&logoColor=white">
+</a>
+<!-- Example for Object Detection -->
+<a href="#" target="_blank">
+  <img alt="Object Detection" src="https://img.shields.io/badge/-Object%20Detection-E74C3C?style=flat-square&logo=computer%20vision&logoColor=white">
+</a>
+
+<!-- Example for Image Classification and Segmentation -->
+<a href="#" target="_blank">
+  <img alt="Image Classification and Segmentation" src="https://img.shields.io/badge/-Image%20Classification%20and%20Segmentation-3498DB?style=flat-square&logo=computer%20vision&logoColor=white">
+</a>
+
+<!-- Example for Transfer Learning -->
+<a href="#" target="_blank">
+  <img alt="Transfer Learning" src="https://img.shields.io/badge/-Transfer%20Learning-2C3E50?style=flat-square&logo=computer%20vision&logoColor=white">
+</a>
+
+<!-- Example for Generative Adversarial Networks (GAN) -->
+<a href="#" target="_blank">
+  <img alt="GAN" src="https://img.shields.io/badge/-GAN-F7DC6F?style=flat-square&logo=computer%20vision&logoColor=black">
 </a>
 
 <!-- Repeat the structure for the remaining technologies and skills -->
@@ -209,10 +402,63 @@
 <a href="#" target="_blank">
   <img alt="Web Development" src="https://img.shields.io/badge/-Web%20Development-3498DB?style=flat-square&logo=html5&logoColor=white">
 </a>
+<!-- Example for HTML -->
+<a href="#" target="_blank">
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+</a>
+
+<!-- Example for CSS -->
+<a href="#" target="_blank">
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+</a>
+
+<!-- Example for JavaScript -->
+<a href="#" target="_blank">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</a>
+
+<!-- Example for Flask -->
+<a href="#" target="_blank">
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white">
+</a>
+
+<!-- Example for Django -->
+<a href="#" target="_blank">
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white">
+</a>
+
+<!-- Example for Streamlit -->
+<a href="#" target="_blank">
+  <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4E00?style=flat-square&logo=streamlit&logoColor=white">
+</a>
 
 <!-- Example for DevOps and MlOps -->
 <a href="#" target="_blank">
   <img alt="DevOps / MlOps" src="https://img.shields.io/badge/-DevOps%20%2F%20MlOps-2C3E50?style=flat-square&logo=devops&logoColor=white">
+</a>
+<!-- Example for Git -->
+<a href="#" target="_blank">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
+</a>
+
+<!-- Example for GitHub -->
+<a href="#" target="_blank">
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+
+<!-- Example for Docker -->
+<a href="#" target="_blank">
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+</a>
+
+<!-- Example for Jenkins -->
+<a href="#" target="_blank">
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
+</a>
+
+<!-- Example for Heroku -->
+<a href="#" target="_blank">
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white">
 </a>
 
 <!-- Repeat the structure for the remaining technologies and skills -->
@@ -221,12 +467,65 @@
 <a href="#" target="_blank">
   <img alt="Database / Bigdata" src="https://img.shields.io/badge/-Database%20%2F%20Bigdata-3498DB?style=flat-square&logo=database&logoColor=white">
 </a>
+<!-- Example for MySQL -->
+<a href="#" target="_blank">
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</a>
+
+<!-- Example for ETL Data Extraction -->
+<a href="#" target="_blank">
+  <img alt="ETL Data Extraction" src="https://img.shields.io/badge/-ETL%20Data%20Extraction-76C7C0?style=flat-square&logo=etl&logoColor=white">
+</a>
+
+<!-- Example for MongoDB -->
+<a href="#" target="_blank">
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+</a>
+
+<!-- Example for Apache Spark -->
+<a href="#" target="_blank">
+  <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white">
+</a>
+
+<!-- Example for Hadoop -->
+<a href="#" target="_blank">
+  <img alt="Hadoop" src="https://img.shields.io/badge/-Hadoop-FF652F?style=flat-square&logo=hadoop&logoColor=white">
+</a>
+
+<!-- Example for HBase -->
+<a href="#" target="_blank">
+  <img alt="HBase" src="https://img.shields.io/badge/-HBase-2C3E50?style=flat-square&logo=hbase&logoColor=white">
+</a>
+
+<!-- Example for NoSQL -->
+<a href="#" target="_blank">
+  <img alt="NoSQL" src="https://img.shields.io/badge/-NoSQL-4DB6AC?style=flat-square&logo=nosql&logoColor=white">
+</a>
+
+<!-- Example for Hive -->
+<a href="#" target="_blank">
+  <img alt="Hive" src="https://img.shields.io/badge/-Hive-FDE74C?style=flat-square&logo=hive&logoColor=white">
+</a>
+
+<!-- Example for Apache Kafka -->
+<a href="#" target="_blank">
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white">
+</a>
 
 <!-- Example for Cloud Computing Technology -->
 <a href="#" target="_blank">
   <img alt="Cloud Computing" src="https://img.shields.io/badge/-Cloud%20Computing-3498DB?style=flat-square&logo=cloud&logoColor=white">
 </a>
 
+<!-- Example for AWS -->
+<a href="#" target="_blank">
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
+</a>
+
+<!-- Example for Azure -->
+<a href="#" target="_blank">
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white">
+</a>
 
 
 
