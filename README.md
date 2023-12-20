@@ -70,8 +70,8 @@
 
 #### Technical Skills
 <p align="center">
-    <a href="https://github.com/milaan9?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-    <a href="https://github.com/milaan9?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen"></a>
+    <a href="" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
+    <a href="" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen"></a>
     <!-- Example for SciPy -->
 <a href="#" target="_blank">
   <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white">
@@ -171,7 +171,7 @@
 <a href="#" target="_blank">
   <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-2C3E50?style=flat-square&logo=eclipse&logoColor=white">
 </a>
-<a href="https://github.com/milaan9?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-★★★-lightgrey?style=flat-square&labelColor=FFD43B&logo=python&logoColor=darkgreen"></a>-->
+<a href="#" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-★★★-lightgrey?style=flat-square&labelColor=FFD43B&logo=python&logoColor=darkgreen"></a>-->
     <a href="https://github.com/Gurupatil0003?tab=repositories&language=Jupyter Notebook" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"></a>
     <a href="https://github.com/Gurupatil0003" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"></a>
     <a href="https://github.com/Gurupatil0003/10_Python_Pandas_Module" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"></a>
