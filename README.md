@@ -55,7 +55,9 @@
 
 #### BIO
 
-- I'm  <img alt="@" src="https://img.shields.io/badge/-Data%20Scientist-4E4E4E?style=flat-square&logo=data&logoColor=white">@<img alt="Soothsayer Analytics" src="https://img.shields.io/badge/-Soothsayer%20Analytics-3498DB?style=flat-square&logo=data&logoColor=white">and <img alt="AI Engineer" src="https://img.shields.io/badge/-AI%20Engineer-3498DB?style=flat-square&logo=ai&logoColor=white"><img alt="Turing Minds.Ai" src="https://img.shields.io/badge/-Turing%20Minds.Ai-4DB6AC?style=flat-square&logo=ai&logoColor=white">
+- I'm  <!-- Example for "@" Badge -->
+<img alt="@" src="https://img.shields.io/badge/@-lightgrey?style=flat-square">
+<img alt="Data Scientist" src="https://img.shields.io/badge/-Data%20Scientist-4E4E4E?style=flat-square&logo=data&logoColor=white">@<img alt="Soothsayer Analytics" src="https://img.shields.io/badge/-Soothsayer%20Analytics-3498DB?style=flat-square&logo=data&logoColor=white">and <img alt="AI Engineer" src="https://img.shields.io/badge/-AI%20Engineer-3498DB?style=flat-square&logo=ai&logoColor=white"><img alt="Turing Minds.Ai" src="https://img.shields.io/badge/-Turing%20Minds.Ai-4DB6AC?style=flat-square&logo=ai&logoColor=white">
 - 🏢 Computational Data Sciennce **Case western Reserve University**
 - 🔭 Area of interest is in <img src="https://img.shields.io/badge/Pattern Recognition-green"> and <img src="https://img.shields.io/badge/Anomaly Identification-red">
 - 🎯 Specifically interested in finding hidden patterns, rules and knowledge from a dataset.
