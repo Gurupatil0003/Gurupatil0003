@@ -68,24 +68,16 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:gurupatil327@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-gurupatil327@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
 
-#### Technical Skills
+#### SKILSS
 <p align="center">
     <a href="https://github.com/milaan9?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
     <a href="https://github.com/milaan9?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen"></a>
     <!--<a href="https://github.com/milaan9?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-★★★-lightgrey?style=flat-square&labelColor=FFD43B&logo=python&logoColor=darkgreen"></a>-->
-    <!-- Example for SciPy -->
-<a href="" target="_blank">
-  <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white">
-</a>
-
-<!-- Example for NumPy -->
-<a href="https://github.com/Gurupatil0003" target="_blank">
-  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-</a>
-
-<!-- Example for Pandas -->
-<a href="https://github.com/Gurupatil0003" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-</a>
+    <a href="https://github.com/milaan9?tab=repositories&language=Jupyter Notebook" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"></a>
+    <a href="https://github.com/Mouneshgouda" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"></a>
+    <a href="https://github.com/milaan9/10_Python_Pandas_Module" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"></a>
+    <a href="https://github.com/milaan9/11_Python_Matplotlib_Module" target="_blank"><img alt="Ploty" src="https://img.shields.io/badge/Plotly-%233F4F75?style=flat-square&logo=plotly&logoColor=white"></a>
+    <a href="https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest" target="_blank"><img alt="ScikitLearn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></a>
 
 <!-- Example for Matplotlib -->
 <a href="https://github.com/Gurupatil0003" target="_blank">
