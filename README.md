@@ -73,37 +73,37 @@
     <a href="" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
     <a href="" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen"></a>
     <!-- Example for SciPy -->
-<a href="#" target="_blank">
+<a href="" target="_blank">
   <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white">
 </a>
 
 <!-- Example for NumPy -->
-<a href="https://github.com/milaan9?tab=repositories&language=python" target="_blank">
+<a href="https://github.com/Gurupatil0003" target="_blank">
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
 </a>
 
 <!-- Example for Pandas -->
-<a href="#" target="_blank">
+<a href="https://github.com/Gurupatil0003" target="_blank">
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
 </a>
 
 <!-- Example for Matplotlib -->
-<a href="#" target="_blank">
+<a href="https://github.com/Gurupatil0003" target="_blank">
   <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white">
 </a>
 
 <!-- Example for Seaborn -->
-<a href="#" target="_blank">
+<a href="https://github.com/Gurupatil0003" target="_blank">
   <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-4EABD1?style=flat-square&logo=seaborn&logoColor=white">
 </a>
 
 <!-- Example for Plotly -->
-<a href="#" target="_blank">
+<a href="https://github.com/Gurupatil0003" target="_blank">
   <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white">
 </a>
 
 <!-- Example for Scikit-learn -->
-<a href="#" target="_blank">
+<a href="https://github.com/Gurupatil0003" target="_blank">
   <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
 </a>
 
@@ -113,65 +113,65 @@
 </a>
 
 <!-- Example for Keras -->
-<a href="#" target="_blank">
+<a href="https://github.com/Gurupatil0003" target="_blank">
   <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white">
 </a>
 
 <!-- Example for OpenCV -->
-<a href="#" target="_blank">
+<a href="https://github.com/Gurupatil0003" target="_blank">
   <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
 </a>
 
 <!-- Example for NLTK -->
-<a href="#" target="_blank">
+<a href="https://github.com/Gurupatil0003" target="_blank">
   <img alt="NLTK" src="https://img.shields.io/badge/-NLTK-4E4E4E?style=flat-square&logo=nltk&logoColor=white">
 </a>
 
 <!-- Example for PySpark -->
-<a href="#" target="_blank">
+<a href="https://github.com/Gurupatil0003" target="_blank">
   <img alt="PySpark" src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white">
 </a>
 
 <!-- Example for Beautiful Soup -->
-<a href="#" target="_blank">
+<a href="https://github.com/Gurupatil0003" target="_blank">
   <img alt="Beautiful Soup" src="https://img.shields.io/badge/-Beautiful%20Soup-4E4E4E?style=flat-square&logo=python&logoColor=white">
 </a>
 
 <!-- Example for Regex -->
-<a href="#" target="_blank">
+<a href="https://github.com/Gurupatil0003" target="_blank">
   <img alt="Regex" src="https://img.shields.io/badge/-Regex-4E4E4E?style=flat-square&logo=python&logoColor=white">
 </a>
 
 <!-- Example for PyTorch -->
-<a href="#" target="_blank">
+<a href="https://github.com/Gurupatil0003" target="_blank">
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
 </a>
 
 <!-- Example for Jupyter Notebook -->
-<a href="#" target="_blank">
+<a href="https://github.com/Gurupatil0003" target="_blank">
   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white">
 </a>
 
 <!-- Example for Anaconda -->
-<a href="#" target="_blank">
+<a href="https://github.com/Gurupatil0003" target="_blank">
   <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
 </a>
 
 <!-- Example for VS Code -->
-<a href="#" target="_blank">
+<a href="https://github.com/Gurupatil0003" target="_blank">
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">
 </a>
 
 <!-- Example for Colab -->
-<a href="#" target="_blank">
+<a href="https://github.com/Gurupatil0003" target="_blank">
   <img alt="Colab" src="https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=google%20colab&logoColor=white">
 </a>
 
 <!-- Example for Eclipse -->
-<a href="#" target="_blank">
+<a href="https://github.com/Gurupatil0003" target="_blank">
   <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-2C3E50?style=flat-square&logo=eclipse&logoColor=white">
 </a>
-<a href="#" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-★★★-lightgrey?style=flat-square&labelColor=FFD43B&logo=python&logoColor=darkgreen"></a>-->
+<a href="https://github.com/Gurupatil0003" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-★★★-lightgrey?style=flat-square&labelColor=FFD43B&logo=python&logoColor=darkgreen"></a>-->
     <a href="https://github.com/Gurupatil0003?tab=repositories&language=Jupyter Notebook" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"></a>
     <a href="https://github.com/Gurupatil0003" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"></a>
     <a href="https://github.com/Gurupatil0003/10_Python_Pandas_Module" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"></a>
