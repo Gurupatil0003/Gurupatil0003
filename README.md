@@ -251,6 +251,14 @@
 <a href="#" target="_blank">
   <img alt="Data Pre-Processing" src="https://img.shields.io/badge/-Data%20Pre%20Processing-3498DB?style=flat-square&logo=data&logoColor=white">
 </a>
+<!-- Example for Power BI -->
+<a href="#" target="_blank">
+  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black">
+</a>
+<!-- Example for Tableau -->
+<a href="#" target="_blank">
+  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
+</a>
 
 <!-- Example for Performance Matrix -->
 <a href="#" target="_blank">
@@ -415,6 +423,10 @@
 <a href="#" target="_blank">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 </a>
+<!-- Example for API -->
+<a href="#" target="_blank">
+  <img alt="API" src="https://img.shields.io/badge/-API-009688?style=flat-square&logo=api&logoColor=white">
+</a>
 
 <!-- Example for Flask -->
 <a href="#" target="_blank">
@@ -435,6 +447,11 @@
 <a href="#" target="_blank">
   <img alt="DevOps / MlOps" src="https://img.shields.io/badge/-DevOps%20%2F%20MlOps-2C3E50?style=flat-square&logo=devops&logoColor=white">
 </a>
+<!-- Example for MLOps -->
+<a href="#" target="_blank">
+  <img alt="MLOps" src="https://img.shields.io/badge/-MLOps-FF6F61?style=flat-square&logo=machine%20learning&logoColor=white">
+</a>
+
 <!-- Example for Git -->
 <a href="#" target="_blank">
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
@@ -509,6 +526,18 @@
 <!-- Example for Apache Kafka -->
 <a href="#" target="_blank">
   <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white">
+</a>
+<!-- Example for Kubernetes -->
+<a href="https://kubernetes.io/" target="_blank">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+</a>
+<!-- Example for Jenkins -->
+<a href="https://www.jenkins.io/" target="_blank">
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
+</a>
+<!-- Example for Cassandra -->
+<a href="https://cassandra.apache.org/" target="_blank">
+  <img alt="Cassandra" src="https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white">
 </a>
 
 <!-- Example for Cloud Computing Technology -->
