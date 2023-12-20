@@ -89,10 +89,14 @@
 <a href="https://github.com/Gurupatil0003" target="_blank"><img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"></a>
 
 <!-- Example for Seaborn -->
-<a href="https://github.com/Gurupatil0003" target="_blank"> <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-4EABD1?style=flat-square&logo=seaborn&logoColor=white"></a>
+<a href="https://github.com/Gurupatil0003" target="_blank"> 
+<img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-4EABD1?style=flat-square&logo=seaborn&logoColor=white">
+</a>
 
 <!-- Example for Plotly -->
-<a href="https://github.com/Gurupatil0003" target="_blank"><img alt="Plotly" src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"></a>
+<a href="https://github.com/Gurupatil0003" target="_blank">
+<img alt="Plotly" src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white">
+</a>
 
 <!-- Example for Scikit-learn -->
 <a href="https://github.com/Gurupatil0003" target="_blank"><img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></a>
