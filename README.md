@@ -54,7 +54,7 @@
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently working on developing new clustering algorithms for autonomous pattern recognition
 
 #### Previous Company
-<img alt="Data Scientist" src="https://img.shields.io/badge/-Data%20Scientist-4E4E4E?style=flat-square&logo=data&logoColor=white"><img alt="@" src="https://img.shields.io/badge/@-lightgrey?style=flat-square"><img alt="Soothsayer Analytics" src="https://img.shields.io/badge/-Soothsayer%20Analytics-3498DB?style=flat-square&logo=data&logoColor=white">and <img alt="AI Engineer" src="https://img.shields.io/badge/-AI%20Engineer-3498DB?style=flat-square&logo=ai&logoColor=white"><img alt="@" src="https://img.shields.io/badge/@-lightgrey?style=flat-square"><img alt="Turing Minds.Ai" src="https://img.shields.io/badge/-Turing%20Minds.Ai-4DB6AC?style=flat-square&logo=ai&logoColor=white">
+<img alt="Data Scientist" src="https://img.shields.io/badge/-Data%20Scientist-4E4E4E?style=flat-square&logo=data&logoColor=white">  <img alt="@" src="https://img.shields.io/badge/@-lightgrey?style=flat-square"><img alt="Soothsayer Analytics" src="https://img.shields.io/badge/-Soothsayer%20Analytics-3498DB?style=flat-square&logo=data&logoColor=white">and <img alt="AI Engineer" src="https://img.shields.io/badge/-AI%20Engineer-3498DB?style=flat-square&logo=ai&logoColor=white">&nbsp;&nbsp;<img alt="@" src="https://img.shields.io/badge/@-lightgrey?style=flat-square"><img alt="Turing Minds.Ai" src="https://img.shields.io/badge/-Turing%20Minds.Ai-4DB6AC?style=flat-square&logo=ai&logoColor=white">
 
 #### BIO
 
