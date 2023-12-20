@@ -112,7 +112,120 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 </a>
 
+<!-- Example for HTML/CSS -->
+<a href="https://github.com/Gurupatil0003?tab=repositories&language=html" target="_blank">
+  <img alt="HTML/CSS" src="https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white">
+</a>
+
+<!-- Example for SQL -->
+<a href="https://github.com/Gurupatil0003?tab=repositories&language=sql" target="_blank">
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
+</a>
+
+<!-- Repeat the structure for other technologies and skills -->
+
+<!-- Example for C -->
+<a href="https://github.com/Gurupatil0003?tab=repositories&language=c" target="_blank">
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black">
+</a>
+
+<!-- Example for C++ -->
+<a href="https://github.com/Gurupatil0003?tab=repositories&language=cpp" target="_blank">
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+</a>
+
+<!-- Example for Node.js -->
+<a href="https://github.com/Gurupatil0003?tab=repositories&language=nodejs" target="_blank">
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+</a>
+
+<!-- Example for Data Science / Machine Learning -->
+<a href="#" target="_blank">
+  <img alt="Data Science / ML" src="https://img.shields.io/badge/-Data%20Science%20%2F%20ML-3498DB?style=flat-square&logo=python&logoColor=white">
+</a>
+<!-- Example for Supervised and Unsupervised Algorithms -->
+<a href="#" target="_blank">
+  <img alt="Supervised and Unsupervised Algorithms" src="https://img.shields.io/badge/-Supervised%20and%20Unsupervised%20Algorithms-4DB6AC?style=flat-square&logo=machine%20learning&logoColor=white">
+</a>
+
+<!-- Example for Data Pre-Processing -->
+<a href="#" target="_blank">
+  <img alt="Data Pre-Processing" src="https://img.shields.io/badge/-Data%20Pre%20Processing-3498DB?style=flat-square&logo=data&logoColor=white">
+</a>
+
+<!-- Example for Performance Matrix -->
+<a href="#" target="_blank">
+  <img alt="Performance Matrix" src="https://img.shields.io/badge/-Performance%20Matrix-2C3E50?style=flat-square&logo=performance&logoColor=white">
+</a>
+
+<!-- Example for Deep Learning -->
+<a href="#" target="_blank">
+  <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep%20Learning-FF6F61?style=flat-square&logo=python&logoColor=white">
+</a>
+<!-- Example for Artificial Neural Networks (ANN) -->
+<a href="#" target="_blank">
+  <img alt="Artificial Neural Networks (ANN)" src="https://img.shields.io/badge/-ANN-FF6F61?style=flat-square&logo=neural%20network&logoColor=white">
+</a>
+
+<!-- Example for Convolutional Neural Networks (CNN) -->
+<a href="#" target="_blank">
+  <img alt="Convolutional Neural Networks (CNN)" src="https://img.shields.io/badge/-CNN-3498DB?style=flat-square&logo=neural%20network&logoColor=white">
+</a>
+
+<!-- Example for Autoencoder -->
+<a href="#" target="_blank">
+  <img alt="Autoencoder" src="https://img.shields.io/badge/-Autoencoder-2C3E50?style=flat-square&logo=neural%20network&logoColor=white">
+</a>
+
+<!-- Example for Optimizers -->
+<a href="#" target="_blank">
+  <img alt="Optimizers" src="https://img.shields.io/badge/-Optimizers-4DB6AC?style=flat-square&logo=neural%20network&logoColor=white">
+</a>
+
+<!-- Example for Activation Function -->
+<a href="#" target="_blank">
+  <img alt="Activation Function" src="https://img.shields.io/badge/-Activation%20Function-F7DF1E?style=flat-square&logo=neural%20network&logoColor=black">
+</a>
+
 <!-- Repeat the structure for the remaining technologies and skills -->
+
+<!-- Example for NLP -->
+<a href="#" target="_blank">
+  <img alt="NLP" src="https://img.shields.io/badge/-NLP-4DB6AC?style=flat-square&logo=natural%20language%20processing&logoColor=white">
+</a>
+
+<!-- Example for Computer Vision -->
+<a href="#" target="_blank">
+  <img alt="Computer Vision" src="https://img.shields.io/badge/-Computer%20Vision-2C3E50?style=flat-square&logo=opencv&logoColor=white">
+</a>
+
+<!-- Repeat the structure for the remaining technologies and skills -->
+<!-- Example for Python Packages -->
+<a href="#" target="_blank">
+  <img alt="Python Packages" src="https://img.shields.io/badge/-Python%20Packages-3776AB?style=flat-square&logo=python&logoColor=white">
+</a>
+
+<!-- Example for Web Development -->
+<a href="#" target="_blank">
+  <img alt="Web Development" src="https://img.shields.io/badge/-Web%20Development-3498DB?style=flat-square&logo=html5&logoColor=white">
+</a>
+
+<!-- Example for DevOps and MlOps -->
+<a href="#" target="_blank">
+  <img alt="DevOps / MlOps" src="https://img.shields.io/badge/-DevOps%20%2F%20MlOps-2C3E50?style=flat-square&logo=devops&logoColor=white">
+</a>
+
+<!-- Repeat the structure for the remaining technologies and skills -->
+
+<!-- Example for Database and Bigdata -->
+<a href="#" target="_blank">
+  <img alt="Database / Bigdata" src="https://img.shields.io/badge/-Database%20%2F%20Bigdata-3498DB?style=flat-square&logo=database&logoColor=white">
+</a>
+
+<!-- Example for Cloud Computing Technology -->
+<a href="#" target="_blank">
+  <img alt="Cloud Computing" src="https://img.shields.io/badge/-Cloud%20Computing-3498DB?style=flat-square&logo=cloud&logoColor=white">
+</a>
 
 
 
