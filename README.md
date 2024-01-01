@@ -1,13 +1,13 @@
-<h1 align="center"> <img src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/de061af8b29c72b745e3fd3f5e16d4ab.png" width="50"/>Hey! Nice to see you  <img src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/luffy-wano.gif" width="99"/></h1>
+<h1 align="center"> <img src="https://github.com/Gurupatil003/Gurupatil003/blob/main/de061af8b29c72b745e3fd3f5e16d4ab.png" width="50"/>Hey! Nice to see you  <img src="https://github.com/Gurupatil003/Gurupatil003/blob/main/luffy-wano.gif" width="99"/></h1>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>       
+    <img src="https://komarev.com/ghpvc/?username=Gurupatil003" alt="milaan9"/>       
     <!--<a href="https://github.com/milaan9?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/milaan9" alt="Repos"/></a>--> 
     <!--<img src="https://badges.pufler.dev/years/milaan9" alt="Active_Years"/>-->  
     <!--<a href="https://github.com/milaan9/milaan9" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="commits"/>--> 
-    <a href="https://github.com/Gurupatil0003/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/milaan9/milaan9" /></a>
+    <a href="https://github.com/Gurupatil0003/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/Gurupatil003/Gurupatil003" /></a>
     <a href="https://github.com/Gurupatil0003?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/milaan9?color=4C1&logo=github"></a>
-    <a href="https://github.com/Gurupatil0003/milaan9" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/milaan9/milaan9?label=Profile%20update&style=fflat-square"></a>
+    <a href="https://github.com/Gurupatil0003/Gurupatil003" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Gurupatil003/Gurupatil003?label=Profile%20update&style=fflat-square"></a>
     <!--<a href="https://github.com/milaan9" target="_blank"><img alt="milaan9" src="https://badges.pufler.dev/visits/milaan9/milaan9?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
     <!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
     <!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
@@ -24,10 +24,10 @@
 <p align="center"> 
     <a href="https://github.com/Gurupatil0003" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Gurupatil0003-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/guranna-gouda-039870228/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Guranna Gouda-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://www.researchgate.net/profile/Milan-Parmar" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-Guranna&#8208;Gouda-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
+    <a href="https://www.researchgate.net/profile/Gurupatil003" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-Guranna&#8208;Gouda-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
     <a href="https://orcid.org/0000-0002-7596-407X" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-Guranna Gouda0000&#8208;0002&#8208;7596&#8208;407X-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
     <a href="https://github.com/Gurupatil0003" target="_blank"><img alt="publons" src="https://img.shields.io/badge/-Guranna Gouda-336699?style=flat-square&logo=PUBLONS&logoColor=white"></a>
-    <a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="GoogleScholar" src="https://img.shields.io/badge/-Guranna Gouda-4885ED?style=flat-square&logo=Google-Scholar&logoColor=white"></a>
+    <a href="https://scholar.google.com/citations?user=Gurupatil003&hl=en" target="_blank"><img alt="GoogleScholar" src="https://img.shields.io/badge/-Guranna Gouda-4885ED?style=flat-square&logo=Google-Scholar&logoColor=white"></a>
     <img alt="WeChat" src="https://img.shields.io/badge/-Gurupatil0003-4C1?style=flat-square&logo=wechat&logoColor=white"></a>
     <img alt="Skype" src="https://img.shields.io/badge/Gurupatil0003-blue?flat-square&logo=skype&logoColor=white"></a>
      <!--<a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-portfolio-%23?colorB=orange&style=flat-square&logo=&logoColor=white"></a>-->
@@ -59,6 +59,8 @@
 - <img alt="AI Engineer" src="https://img.shields.io/badge/-AI%20Engineer-3498DB?style=flat-square&logo=ai&logoColor=white">&nbsp;&nbsp;<img alt="Black Arrow Badge" src="https://img.shields.io/badge/→-000000?style=flat-square"><img alt="@" src="https://img.shields.io/badge/@-red?style=flat-square&logoColor=white"><img alt="Turing Minds.Ai" src="https://img.shields.io/badge/-Turing%20Minds.Ai-4DB6AC?style=flat-square&logo=ai&logoColor=white"><img alt="And" src="https://img.shields.io/badge/And-black?style=flat-square&logoColor=white"><img alt="Meraki IT Solutions" src="https://img.shields.io/badge/Meraki%20IT%20Solutions-3498DB?style=flat-square"> 
 
 - <img alt="Mentor" src="https://img.shields.io/badge/Mentor-yellow?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Black Arrow Badge" src="https://img.shields.io/badge/→-000000?style=flat-square"><img alt="@" src="https://img.shields.io/badge/@-red?style=flat-square&logoColor=white"><img alt="Byju's" src="https://img.shields.io/badge/Byju's-3498DB?style=flat-square"></a>
+
+- <img alt="System Consultant Information India (SCII)" src="https://img.shields.io/badge/System_Consultant_Information_India_(SCII)-brightgreen?style=flat-square">
 
 
 #### BIO
