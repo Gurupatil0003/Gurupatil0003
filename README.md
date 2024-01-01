@@ -60,7 +60,8 @@
 
 - <img alt="Mentor" src="https://img.shields.io/badge/Mentor-yellow?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Black Arrow Badge" src="https://img.shields.io/badge/→-000000?style=flat-square"><img alt="@" src="https://img.shields.io/badge/@-red?style=flat-square&logoColor=white"><img alt="Byju's" src="https://img.shields.io/badge/Byju's-3498DB?style=flat-square"></a>
 
-- <img alt="System Consultant Information India (SCII)" src="https://img.shields.io/badge/System_Consultant_Information_India_(SCII)-brightgreen?style=flat-square">
+- <img alt="Mentor" src="https://img.shields.io/badge/Full Stack Python Developer-Red?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Black Arrow Badge" src="https://img.shields.io/badge/→-000000?style=flat-square"><img alt="@" src="https://img.shields.io/badge/@-red?style=flat-square&logoColor=white"><img alt="System Consultant Information India (SCII)" src="https://img.shields.io/badge/System Consultant Information India (SCII)-3498DB?style=flat-square"></a>
+
 
 
 #### BIO
