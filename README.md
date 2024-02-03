@@ -17,8 +17,10 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Guranna+Gouda++;3%2B+years+of+Experience+As+a;Data+scientist+and+AI+developer" alt="Typing SVG" /></a></p>
-</p> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=33&pause=1000&random=false&width=435&lines=I'm+Guranna+Gouda++;3%2B+years+of+Experience+As+a;Data+scientist+and+AI+developer" alt="Typing SVG" /></a></p>
+</p>
+
+
 <p align="center"> 
     <a href="https://github.com/Gurupatil0003" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Gurupatil0003-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/guranna-gouda-039870228/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Guranna Gouda-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
