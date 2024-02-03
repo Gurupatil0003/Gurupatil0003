@@ -63,10 +63,10 @@
 
 - <img alt="Python" src="https://img.shields.io/badge/Full_Stack_Python_Developer-Red?style=flat-square"><img alt="Black Arrow Badge" src="https://img.shields.io/badge/→-red?style=flat-square"><img alt="@" src="https://img.shields.io/badge/@-red?style=flat-square&logoColor=white"><img alt="System Consultant Information India (SCII)" src="https://img.shields.io/badge/System_Consultant_Information_India_(SCII)-red?style=flat-square">
 
+<p align="center">
 
 <img src="https://readme-jokes.vercel.app/api" alt="Gurupatil0003" style="position: absolute; top: 0; left: 0;"/>
-
-
+</p>
 
 #### BIO
 
