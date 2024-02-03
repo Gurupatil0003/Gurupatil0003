@@ -4,7 +4,7 @@
 <h1 align="center"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/de061af8b29c72b745e3fd3f5e16d4ab%20(1).png" width="50"/><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&random=false&width=435&lines=Hey+Nice+to+See+you" alt="Typing SVG" /></a><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/luffy-wano%20(1).gif" width="99"/></h1>
 
 
-<!--<p align="center"> 
+<!-- <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Gurupatil003" alt="milaan9"/>       
     <!--<a href="https://github.com/milaan9?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/milaan9" alt="Repos"/></a>--> 
     <!--<img src="https://badges.pufler.dev/years/milaan9" alt="Active_Years"/>-->  
@@ -14,9 +14,7 @@
     <a href="https://github.com/Gurupatil0003/Gurupatil003" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Gurupatil003/Gurupatil003?label=Profile%20update&style=fflat-square"></a>
     <!--<a href="https://github.com/milaan9" target="_blank"><img alt="milaan9" src="https://badges.pufler.dev/visits/milaan9/milaan9?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
     <!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
-    <!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
-</p> 
-
+    <!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>--></p> /> -->
 
 
 <p align="center">
