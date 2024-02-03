@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=Gurupatil003" alt="Gurupatil0003"/>       
     <a href="https://github.com/Gurupatil0003?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/Gurupatil0003" alt="Repos"/></a>--> 
     
-    <img src="https://badges.pufler.dev/years/Gurupatil0003" alt="Active_Years"/>-->  
+<img src="https://badges.pufler.dev/years/Gurupatil0003" alt="Active_Years"/>
     <<a href="https://github.com/Gurupatil0003/Gurupatil0003" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/Gurupatil0003" alt="commits"/>--> 
     <a href="https://github.com/Gurupatil0003/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/Gurupatil003/Gurupatil003" /></a>
     <a href="https://github.com/Gurupatil0003?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Gurupatil0003?color=4C1&logo=github"></a>
