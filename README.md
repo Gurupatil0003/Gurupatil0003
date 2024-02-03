@@ -16,7 +16,7 @@
 
 
 <h3 align="center"> 
-   <p align="center">
+<p align="center">
 <<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F6F7EC&random=false&width=435&lines=I'm+Guranna+Gouda+;Data+scientist+and+AI+developer" alt="Typing SVG" />
 </p>
 </h3> 
