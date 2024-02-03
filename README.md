@@ -12,9 +12,18 @@
     </a>
 <!---<a href="https://github.com/Gurupatil0003" target="_blank"><img alt="Gurupatil0003" src="https://badges.pufler.dev/visits/Gurupatil0003/Gurupatil0003?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>--1>
     <!---<img src="https://badges.pufler.dev/gists/Gurupatil0003" alt="Gurupatil0003"/>-->
-    <img src="https://readme-jokes.vercel.app/api" alt="Gurupatil0003"/>
+    
 </p>
 
+<style>
+  .corner-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+</style>
+
+<img src="https://readme-jokes.vercel.app/api" alt="Gurupatil0003" class="corner-image"/>
 
     
 
