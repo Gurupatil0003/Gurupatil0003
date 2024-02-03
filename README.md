@@ -15,18 +15,9 @@
     
 </p>
 
-<table>
-    <style>
-  .corner-image {
-    position: absolute;
-    top: 0;
-    left: 0;
-  }
-</style>
+<img src="https://readme-jokes.vercel.app/api" alt="Gurupatil0003" style="position: absolute; top: 0; left: 0;"/>
 
-<img src="https://readme-jokes.vercel.app/api" alt="Gurupatil0003" class="corner-image"/>
 
-</table>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=33&pause=1000&random=false&width=435&lines=I'm+Guranna+Gouda++;3%2B+years+of+Experience+As+a;Data+scientist+and+AI+developer" alt="Typing SVG" /></a></p>
 </p>
