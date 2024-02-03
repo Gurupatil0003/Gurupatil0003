@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=Gurupatil0003" alt="Gurupatil0003"/>       
     <a href="https://github.com/Gurupatil0003?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/Gurupatil0003" alt="Repos"/></a>    
 <img src="https://badges.pufler.dev/years/Gurupatil0003" alt="Active_Years"/>
-    <<a href="https://github.com/Gurupatil0003/Gurupatil0003" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/Gurupatil0003" alt="commits"/>
+    <a href="https://github.com/Gurupatil0003/Gurupatil0003" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/Gurupatil0003" alt="commits"/>
     <a href="https://github.com/Gurupatil0003/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/Gurupatil003/Gurupatil003" /></a>
     <a href="https://github.com/Gurupatil0003?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Gurupatil0003?color=4C1&logo=github"></a>
    <!-- <a href="https://github.com/Gurupatil0003/Gurupatil003" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Gurupatil0003/Gurupatil003?label=Profile%20update&style=fflat-square">-->
@@ -14,8 +14,6 @@
     <!---<img src="https://badges.pufler.dev/gists/Gurupatil0003" alt="Gurupatil0003"/>-->
     
 </p>
-
-<img src="https://readme-jokes.vercel.app/api" alt="Gurupatil0003" style="position: absolute; top: 0; left: 0;"/>
 
 
 <p align="center">
@@ -65,6 +63,8 @@
 
 - <img alt="Python" src="https://img.shields.io/badge/Full_Stack_Python_Developer-Red?style=flat-square"><img alt="Black Arrow Badge" src="https://img.shields.io/badge/→-red?style=flat-square"><img alt="@" src="https://img.shields.io/badge/@-red?style=flat-square&logoColor=white"><img alt="System Consultant Information India (SCII)" src="https://img.shields.io/badge/System_Consultant_Information_India_(SCII)-red?style=flat-square">
 
+
+<img src="https://readme-jokes.vercel.app/api" alt="Gurupatil0003" style="position: absolute; top: 0; left: 0;"/>
 
 
 
