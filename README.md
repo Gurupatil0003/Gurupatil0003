@@ -8,10 +8,12 @@
     <!--<a href="https://github.com/milaan9/milaan9" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="commits"/>--> 
     <a href="https://github.com/Gurupatil0003/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/Gurupatil003/Gurupatil003" /></a>
     <a href="https://github.com/Gurupatil0003?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/milaan9?color=4C1&logo=github"></a>
-    <a href="https://github.com/Gurupatil0003/Gurupatil003" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Gurupatil003/Gurupatil003?label=Profile%20update&style=fflat-square"></a>
+    <a href="https://github.com/Gurupatil0003/Gurupatil003" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Gurupatil003/Gurupatil003?label=Profile%20update&style=fflat-square">
+    </a>
     <!--<a href="https://github.com/milaan9" target="_blank"><img alt="milaan9" src="https://badges.pufler.dev/visits/milaan9/milaan9?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
     <!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
-    <!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>--></p> /> 
+    <!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
+</p> /> 
 
 
     
