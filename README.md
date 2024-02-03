@@ -17,8 +17,7 @@
 
 
 <p align="center">
-<<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F6F7EC&random=false&width=435&lines=I'm+Guranna+Gouda+;Data+scientist+and+AI+developer" alt="Typing SVG" />  
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Guranna+Gouda++;3%2B+years+of+Experience+As+a;Data+scientist+and+AI+developer" alt="Typing SVG" /></a></p>
 </p> 
 <p align="center"> 
     <a href="https://github.com/Gurupatil0003" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Gurupatil0003-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
