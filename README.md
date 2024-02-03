@@ -15,14 +15,10 @@
 </p> 
 
 
-<h3 align="center"> 
+
 <p align="center">
-<<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F6F7EC&random=false&width=435&lines=I'm+Guranna+Gouda+;Data+scientist+and+AI+developer" alt="Typing SVG" />
+<<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F6F7EC&random=false&width=435&lines=I'm+Guranna+Gouda+;Data+scientist+and+AI+developer" alt="Typing SVG" />  
 </p>
-</h3> 
-
-<p align="center">   
-
 </p> 
 <p align="center"> 
     <a href="https://github.com/Gurupatil0003" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Gurupatil0003-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
