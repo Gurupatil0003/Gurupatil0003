@@ -1,6 +1,6 @@
-<h1 align="center"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/de061af8b29c72b745e3fd3f5e16d4ab%20(1).png" width="50"/><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&random=false&width=435&lines=Hey+Nice+to+See+you" alt="Typing SVG" /></a><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/luffy-wano%20(1).gif" width="99"/></h1>
+<h1 align="center"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/luffy-wano%20(1).gif" width="50"/><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&random=false&width=435&lines=Hey+Nice+to+See+you" alt="Typing SVG" /></a><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/luffy-wano%20(1).gif" width="99"/></h1>
 
-
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/de061af8b29c72b745e3fd3f5e16d4ab%20(1).png" width="50"/>
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Gurupatil0003" alt="Gurupatil0003"/>       
     <a href="https://github.com/Gurupatil0003?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/Gurupatil0003" alt="Repos"/></a>    
@@ -64,11 +64,6 @@
 - <img alt="Python" src="https://img.shields.io/badge/Full_Stack_Python_Developer-Red?style=flat-square"><img alt="Black Arrow Badge" src="https://img.shields.io/badge/→-red?style=flat-square"><img alt="@" src="https://img.shields.io/badge/@-red?style=flat-square&logoColor=white"><img alt="System Consultant Information India (SCII)" src="https://img.shields.io/badge/System_Consultant_Information_India_(SCII)-red?style=flat-square">
 
 
-<table>
-<p align="right">
-<img src="https://readme-jokes.vercel.app/api" alt="Gurupatil0003" class="corner-image"/>
-</p>
-</table>
 
 #### BIO
 
