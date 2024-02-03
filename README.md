@@ -15,18 +15,12 @@
     
 </p>
 
-<style>
-  .corner-image {
-    position: absolute;
-    top: 0;
-    left: 0;
-  }
-</style>
+<table align="right">
 
 <img src="https://readme-jokes.vercel.app/api" alt="Gurupatil0003" class="corner-image"/>
 
     
-
+</table>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=33&pause=1000&random=false&width=435&lines=I'm+Guranna+Gouda++;3%2B+years+of+Experience+As+a;Data+scientist+and+AI+developer" alt="Typing SVG" /></a></p>
@@ -48,6 +42,7 @@
     <!--<img alt="QQ" src="https://img.shields.io/badge/QQ -3086215265-0099ff?style=fflat-square&labelColor=FFD43B"></a>-->
     <!--<img alt="mobile" src="https://img.shields.io/badge/📱 -+8613756537093-white?style=fflat-square&labelColor=white"></a>-->
     <!--<a href="https://wa.me/+79041599690" target="_blank"><img alt="WhatssApp" src="https://img.shields.io/badge/WhatsApp-%25D366.svg?&style=flat-square&logo=whatsapp&logoColor=white"></a>-->
+
 </p> 
 
 <table align="right">
