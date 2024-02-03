@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/de061af8b29c72b745e3fd3f5e16d4ab%20(1).png" width="50"/>Hey! Nice to see you  <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/luffy-wano%20(1).gif" width="99"/></h1>
+<h1 align="center"> <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/de061af8b29c72b745e3fd3f5e16d4ab%20(1).png" width="50"/><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&random=false&width=435&lines=Hey+Nice+to+See+you" alt="Typing SVG" /></a><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/luffy-wano%20(1).gif" width="99"/></h1>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Gurupatil003" alt="milaan9"/>       
