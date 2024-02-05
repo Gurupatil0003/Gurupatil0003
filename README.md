@@ -65,16 +65,6 @@
 - <img alt="Python" src="https://img.shields.io/badge/Full_Stack_Python_Developer-Red?style=flat-square"><img alt="Black Arrow Badge" src="https://img.shields.io/badge/→-red?style=flat-square"><img alt="@" src="https://img.shields.io/badge/@-red?style=flat-square&logoColor=white"><img alt="System Consultant Information India (SCII)" src="https://img.shields.io/badge/System_Consultant_Information_India_(SCII)-red?style=flat-square">
 
 
-
-- <img alt="Data Scientist" src="https://img.shields.io/badge/-Data%20Scientist-FFFFFF?style=flat-square&logo=data&logoColor=black&labelColor=333333"><img alt="Black Arrow Badge" src="https://img.shields.io/badge/→-FFFFFF?style=flat-square"><img alt="@" src="https://img.shields.io/badge/@-FFFFFF?style=flat-square&logoColor=black"><img alt="UpGrade" src="https://img.shields.io/badge/UpGrade-FFFFFF?style=flat-square"><img alt="And" src="https://img.shields.io/badge/And-FFFFFF?style=flat-square&logoColor=black"><img alt="Soothsayer Analytics" src="https://img.shields.io/badge/-Soothsayer%20Analytics-FFFFFF?style=flat-square&logo=data&logoColor=black">
-
-- <img alt="AI Engineer" src="https://img.shields.io/badge/-AI%20Engineer-FFFFFF?style=flat-square&logo=ai&logoColor=black">&nbsp;&nbsp;<img alt="Black Arrow Badge" src="https://img.shields.io/badge/→-FFFFFF?style=flat-square"><img alt="@" src="https://img.shields.io/badge/@-FFFFFF?style=flat-square&logoColor=black"><img alt="Turing Minds.Ai" src="https://img.shields.io/badge/-Turing%20Minds.Ai-FFFFFF?style=flat-square&logo=ai&logoColor=black"><img alt="And" src="https://img.shields.io/badge/And-FFFFFF?style=flat-square&logoColor=black"><img alt="Meraki IT Solutions" src="https://img.shields.io/badge/Meraki%20IT%20Solutions-FFFFFF?style=flat-square"> 
-
-- <img alt="Mentor" src="https://img.shields.io/badge/Mentor-FFFFFF?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Black Arrow Badge" src="https://img.shields.io/badge/→-FFFFFF?style=flat-square"><img alt="@" src="https://img.shields.io/badge/@-FFFFFF?style=flat-square&logoColor=black"><img alt="Byju's" src="https://img.shields.io/badge/Byju's-FFFFFF?style=flat-square"></a>
-
-- <img alt="Python" src="https://img.shields.io/badge/Full_Stack_Python_Developer-FFFFFF?style=flat-square"><img alt="Black Arrow Badge" src="https://img.shields.io/badge/→-FFFFFF?style=flat-square"><img alt="@" src="https://img.shields.io/badge/@-FFFFFF?style=flat-square&logoColor=black"><img alt="System Consultant Information India (SCII)" src="https://img.shields.io/badge/System_Consultant_Information_India_(SCII)-FFFFFF?style=flat-square">
-
-
 #### BIO
 
 - 🏢 Computational Data Sciennce **Case western Reserve University**
