@@ -580,6 +580,11 @@
 
 
 
+<!-- Example for Create Invite -->
+<a href="#" target="_blank">
+  <img alt="Create Invite" src="https://img.shields.io/badge/Create%20Invite-%237289DA?style=flat-square&logo=discord&logoColor=white">
+</a>
+
 </p>
 <p>
     -<!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
