@@ -1,5 +1,13 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&random=false&width=435&lines=%22Koukai+sezu+ni+jinsei+o+ikiru+hitsuyou+ga+arimasu.%22" alt="Typing SVG" /></a><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/luffy-wano%20(1).gif" width="99"/></h1>
 <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=Gurupatil0003&color=black" alt="Gurupatil0003"/>       
+<a href="https://github.com/Gurupatil0003?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/Gurupatil0003?color=black" alt="Repos"/></a>    
+<img src="https://badges.pufler.dev/years/Gurupatil0003?color=black" alt="Active_Years"/>
+<a href="https://github.com/Gurupatil0003/Gurupatil0003" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/Gurupatil0003?color=black" alt="commits"/>
+<a href="https://github.com/Gurupatil0003/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/Gurupatil003/Gurupatil003?color=black" /></a>
+<a href="https://github.com/Gurupatil0003?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Gurupatil0003?color=black&logo=github"></a>
+
+
     <img src="https://komarev.com/ghpvc/?username=Gurupatil0003" alt="Gurupatil0003"/>       
     <a href="https://github.com/Gurupatil0003?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/Gurupatil0003" alt="Repos"/></a>    
 <img src="https://badges.pufler.dev/years/Gurupatil0003" alt="Active_Years"/>
