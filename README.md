@@ -14,7 +14,6 @@
     <!---<img src="https://badges.pufler.dev/gists/Gurupatil0003" alt="Gurupatil0003"/>-->
 
 
-<a href="https://github.com/Gurupatil0003" target="_blank"><img alt="GitHub" src="https://github.com/Gurupatil0003/Master-Portfolioo/blob/main/images/masterPortfolioThemes.png"></a>
 
 </p>
 
