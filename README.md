@@ -12,7 +12,10 @@
     </a>
 <!---<a href="https://github.com/Gurupatil0003" target="_blank"><img alt="Gurupatil0003" src="https://badges.pufler.dev/visits/Gurupatil0003/Gurupatil0003?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>--1>
     <!---<img src="https://badges.pufler.dev/gists/Gurupatil0003" alt="Gurupatil0003"/>-->
-    
+
+
+<a href="https://github.com/Gurupatil0003" target="_blank"><img alt="GitHub" src="https://github.com/Gurupatil0003/Master-Portfolioo/blob/main/images/masterPortfolioThemes.png"></a>
+
 </p>
 
 
