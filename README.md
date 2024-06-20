@@ -82,7 +82,7 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:gurupatil327@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-gurupatil327@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
 
-#### SKILSS
+#### SKILLS
 
 <p align="center">
     <a href="https://github.com/Gurupatil0003?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
