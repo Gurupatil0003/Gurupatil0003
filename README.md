@@ -12,6 +12,10 @@
     <a href="https://github.com/Gurupatil0003?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Gurupatil0003?color=4C1&logo=github"></a>
 
 </a>
+
+```python
+
+```
    <!-- <a href="https://github.com /Gurupatil0003/Gurupatil003" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Gurupatil0003/Gurupatil003?label=Profile%20update&style=fflat-square">-->
     </a>
 <!---<a href="https://github.com/Gurupatil0003" target="_blank"><img alt="Gurupatil0003" src="https://badges.pufler.dev/visits/Gurupatil0003/Gurupatil0003?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>--1>
