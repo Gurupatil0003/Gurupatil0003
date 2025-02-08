@@ -1,3 +1,5 @@
+
+
 <h1 align="center"> <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/de061af8b29c72b745e3fd3f5e16d4ab%20(1).png" width="50"/><a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&random=false&width=435&lines=%22Koukai+sezu+ni+jinsei+o+ikiru+hitsuyou+ga+arimasu.%22" alt="Typing SVG" /></a><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/luffy-wano%20(1).gif" width="99"/></h1> 
 
 
@@ -10,8 +12,8 @@
     <a href="https://github.com/Gurupatil0003/Gurupatil0003" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/Gurupatil0003&logoColor=white"" alt="commits"/>
     <a href="https://github.com/Gurupatil0003/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/Gurupatil0003/Gurupatil003" /></a>
     <a href="https://github.com/Gurupatil0003?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Gurupatil0003?color=4C1&logo=github"></a>
-
-</a>
+   <!-- <a href="https://github.com /Gurupatil0003/Gurupatil003" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Gurupatil0003/Gurupatil003?label=Profile%20update&style=fflat-square">-->
+    </a>
 
 
    <!-- <a href="https://github.com /Gurupatil0003/Gurupatil003" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Gurupatil0003/Gurupatil003?label=Profile%20update&style=fflat-square">-->
