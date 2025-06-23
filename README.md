@@ -13,6 +13,8 @@
 
 </div>
 
+[![Instagram](https://github.com/Gurupatil0003/Gurupatil0003/raw/main/in.png)](https://www.instagram.com/guru.mounesh)
+
 
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=Gurupatil0003" alt="Gurupatil0003"/>       
