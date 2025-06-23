@@ -2,7 +2,6 @@
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Handshake.gif" width="60"></a>
 </h3> 
 
-[![Instagram](https://github.com/Gurupatil0003/Gurupatil0003/raw/main/in.png)](https://www.instagram.com/guru.mounesh)
 
 
 <p align="center">
@@ -12,6 +11,9 @@
 <a href="mailto:gurupatil327@gmail.com" target="_blank">
   <img alt="Gmail" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
 </a></p>  
+
+[![Instagram](https://github.com/Gurupatil0003/Gurupatil0003/raw/main/in.png)](https://www.instagram.com/guru.mounesh)
+
 
 <h1 align="center"> <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/de061af8b29c72b745e3fd3f5e16d4ab%20(1).png" width="50"/><a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&random=false&width=435&lines=%22Koukai+sezu+ni+jinsei+o+ikiru+hitsuyou+ga+arimasu.%22" alt="Typing SVG" /></a><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/luffy-wano%20(1).gif" width="99"/></h1> 
 
