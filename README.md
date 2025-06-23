@@ -65,7 +65,7 @@
     <tr><td><a href="README_pt.md"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/3909444.png" height="15"> malayalam ★★☆</a></td></tr>
 
 </table>
-
+<br>
 
 ##### NOW
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently working <img alt="@" src="https://img.shields.io/badge/@-red?style=flat-square&logoColor=white"><img alt="Bytexl" src="https://img.shields.io/badge/Bytexl-3498DB?style=flat-square"> 
