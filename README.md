@@ -12,7 +12,7 @@
   <img alt="Gmail" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
 </a></p>  
 
-[![Instagram](https://github.com/Gurupatil0003/Gurupatil0003/raw/main/in.png)](https://www.instagram.com/guru.mounesh)
+[![Instagram](https://private-user-images.githubusercontent.com/117625169/509949037-c4f7a02d-25cc-4cd2-b242-03382ca573f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI0NTA5MDAsIm5iZiI6MTc2MjQ1MDYwMCwicGF0aCI6Ii8xMTc2MjUxNjkvNTA5OTQ5MDM3LWM0ZjdhMDJkLTI1Y2MtNGNkMi1iMjQyLTAzMzgyY2E1NzNmMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEwNlQxNzM2NDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNWI4ZjNkMDAwZmUzYTA5NjAwYTkwNjdkODAyNGY4NjJkMDQwZmQwYmE3YjM1YWVlZTk2ZTdkOTgxNTE1ZDU1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.SeWJKt5WmQE1Vo12Urny3BCN93DFzHy6xELUckyjCjA)](https://www.instagram.com/guru.mounesh)
 
 
 <h1 align="center"> <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/de061af8b29c72b745e3fd3f5e16d4ab%20(1).png" width="50"/><a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&random=false&width=435&lines=%22Koukai+sezu+ni+jinsei+o+ikiru+hitsuyou+ga+arimasu.%22" alt="Typing SVG" /></a><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/luffy-wano%20(1).gif" width="99"/></h1> 
