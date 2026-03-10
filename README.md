@@ -14,27 +14,26 @@
 
 <div align="center">
 
-# <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35"/> Instagram Accounts
+### <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="28"/> Instagram Accounts
 
-### Connect With My Profiles
 
-<hr width="60%">
+<hr width="35%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=E4405F&center=true&vCenter=true&width=500&lines=Follow+Our+Tech+Journey;AI+Engineering+%7C+Teaching+%7C+Startups;Building+The+Future+With+Code"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=E4405F&center=true&vCenter=true&width=420&lines=Follow+Our+Tech+Journey;AI+Engineering+%7C+Teaching+%7C+Startups;Building+The+Future+With+Code"/>
 
-<hr width="65%">
+<hr width="35%">
 
 </div>
 
-<table align="center" border="1" cellpadding="12" cellspacing="0">
+<table align="center" border="1" cellpadding="10" cellspacing="0">
 <tr>
 
-<td align="center" width="400">
+<td align="center" width="350">
 
-<h3>🔥 Official Account</h3>
+<h4>🔥 Official Account</h4>
 
 <a href="https://www.instagram.com/guru.mounesh/">
-<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/WhatsApp%20Image%202026-03-10%20at%2023.33.13.jpeg" width="300">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/WhatsApp%20Image%202026-03-10%20at%2023.33.13.jpeg" width="260">
 </a>
 
 <br><br>
@@ -43,12 +42,12 @@
 
 </td>
 
-<td align="center" width="400">
+<td align="center" width="350">
 
-<h3>👨‍💻 Personal Account</h3>
+<h4>👨‍💻 Personal Account</h4>
 
 <a href="https://www.instagram.com/guru_patil__03/">
-<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Screenshot%202026-03-10%20230616.png" width="300">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Screenshot%202026-03-10%20230616.png" width="260">
 </a>
 
 <br><br>
@@ -62,8 +61,7 @@
 
 <div align="center">
 
-<hr width="65%">
-
+<hr width="45%">
 
 </div>
 
