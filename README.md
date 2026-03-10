@@ -739,4 +739,58 @@
 -->
 
 
+<div align="center">
+
+### <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="28"/> Instagram Accounts
+
+<sub>Connect With My Profiles</sub>
+
+<hr width="45%">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=E4405F&center=true&vCenter=true&width=420&lines=Follow+Our+Tech+Journey;AI+Engineering+%7C+Teaching+%7C+Startups;Building+The+Future+With+Code"/>
+
+<hr width="45%">
+
+</div>
+
+<table align="center" border="1" cellpadding="10" cellspacing="0">
+<tr>
+
+<td align="center" width="350">
+
+<h4>🔥 Official Account</h4>
+
+<a href="https://www.instagram.com/guru.mounesh/">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/WhatsApp%20Image%202026-03-10%20at%2023.33.13.jpeg" width="260">
+</a>
+
+<br><br>
+
+<b>@guru.mounesh</b>
+
+</td>
+
+<td align="center" width="350">
+
+<h4>👨‍💻 Personal Account</h4>
+
+<a href="https://www.instagram.com/guru_patil__03/">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Screenshot%202026-03-10%20230616.png" width="260">
+</a>
+
+<br><br>
+
+<b>@guru_patil__03</b>
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+<hr width="45%">
+
+</div>
+
 
