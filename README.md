@@ -731,7 +731,7 @@
 <b>🔥 Official Account</b><br><br>
 
 <a href="https://www.instagram.com/guru.mounesh/">
-<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/WhatsApp%20Image%202026-03-10%20at%2023.14.41.jpeg" width="400" height="320">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/WhatsApp%20Image%202026-03-10%20at%2023.33.13.jpeg" width="350" height="320">
 </a>
 
 <br><br>
