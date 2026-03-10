@@ -765,7 +765,14 @@
 
 </div>
 
+
+
+
 <div align="center">
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"/>
+
+# 🎩 Welcome to My Instagram Space
 
 <img src="https://img.shields.io/badge/Follow%20Me%20On-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
@@ -794,14 +801,6 @@
 
 <b>@guru.mounesh</b>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Students%20Trained-60000%2B-blue?style=flat-square">
-
-<br>
-
-<img src="https://img.shields.io/badge/Role-AI%20Engineer-purple?style=flat-square">
-
 </td>
 
 <td align="center" width="400">
@@ -815,14 +814,6 @@
 <br><br>
 
 <b>@guru_patil__03</b>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Life-Coding%20%7C%20Learning-orange?style=flat-square">
-
-<br>
-
-<img src="https://img.shields.io/badge/Journey-Startup%20Builder-green?style=flat-square">
 
 </td>
 
