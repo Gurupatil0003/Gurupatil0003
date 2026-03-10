@@ -685,3 +685,30 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu456&layout=compact)](https://github.com/sudhanshu456)
 - 💻Checkout my [portfolio](https://sudhanshu456.github.io/)
 -->
+
+
+## 📸 Instagram Accounts
+
+<table>
+<tr>
+<td align="center">
+<b>Official Account</b><br>
+
+<a href="https://www.instagram.com/guru.mounesh/">
+<img src="images/official.png" width="350">
+</a>
+
+<br>@guru.mounesh
+</td>
+
+<td align="center">
+<b>Personal Account</b><br>
+
+<a href="https://www.instagram.com/guru_patil_03/">
+<img src="images/personal.png" width="350">
+</a>
+
+<br>@guru_patil_03
+</td>
+</tr>
+</table>
