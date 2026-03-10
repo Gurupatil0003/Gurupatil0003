@@ -712,3 +712,55 @@
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+# <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35"/> Instagram Accounts
+
+### Connect With My Profiles
+
+<hr width="60%">
+
+</div>
+
+<table align="center" border="1" cellpadding="12" cellspacing="0">
+<tr>
+
+<td align="center" width="400">
+
+<b>🔥 Official Account</b><br><br>
+
+<a href="https://www.instagram.com/guru.mounesh/">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/WhatsApp%20Image%202026-03-10%20at%2023.14.41.jpeg" width="320" height="320">
+</a>
+
+<br><br>
+
+<b>@guru.mounesh</b>
+
+</td>
+
+<td align="center" width="400">
+
+<b>👨‍💻 Personal Account</b><br><br>
+
+<a href="https://www.instagram.com/guru_patil_03/">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Screenshot%202026-03-10%20230616.png" width="320" height="320">
+</a>
+
+<br><br>
+
+<b>@guru_patil_03</b>
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+<hr width="60%">
+
+⭐ Follow the journey of AI • Tech • Startup Building
+
+</div>
