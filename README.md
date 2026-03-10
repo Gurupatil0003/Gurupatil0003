@@ -12,8 +12,60 @@
   <img alt="Gmail" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
 </a></p>  
 
-[![Instagram](https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Screenshot%202025-11-20%20073835.png)](https://www.instagram.com/guru.mounesh)
+<div align="center">
 
+# <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35"/> Instagram Accounts
+
+### Connect With My Profiles
+
+<hr width="60%">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=E4405F&center=true&vCenter=true&width=500&lines=Follow+Our+Tech+Journey;AI+Engineering+%7C+Teaching+%7C+Startups;Building+The+Future+With+Code"/>
+
+<hr width="65%">
+
+</div>
+
+<table align="center" border="1" cellpadding="12" cellspacing="0">
+<tr>
+
+<td align="center" width="400">
+
+<h3>🔥 Official Account</h3>
+
+<a href="https://www.instagram.com/guru.mounesh/">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/WhatsApp%20Image%202026-03-10%20at%2023.33.13.jpeg" width="300">
+</a>
+
+<br><br>
+
+<b>@guru.mounesh</b>
+
+</td>
+
+<td align="center" width="400">
+
+<h3>👨‍💻 Personal Account</h3>
+
+<a href="https://www.instagram.com/guru_patil__03/">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Screenshot%202026-03-10%20230616.png" width="300">
+</a>
+
+<br><br>
+
+<b>@guru_patil__03</b>
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+<hr width="65%">
+
+
+</div>
 
 <h1 align="center"> <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/de061af8b29c72b745e3fd3f5e16d4ab%20(1).png" width="50"/><a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&random=false&width=435&lines=%22Koukai+sezu+ni+jinsei+o+ikiru+hitsuyou+ga+arimasu.%22" alt="Typing SVG" /></a><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/luffy-wano%20(1).gif" width="99"/></h1> 
 
@@ -688,58 +740,3 @@
 
 
 
-<div align="center">
-
-# <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35"/> Instagram Accounts
-
-### Connect With My Profiles
-
-<hr width="60%">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=E4405F&center=true&vCenter=true&width=500&lines=Follow+Our+Tech+Journey;AI+Engineering+%7C+Teaching+%7C+Startups;Building+The+Future+With+Code"/>
-
-<hr width="65%">
-
-</div>
-
-<table align="center" border="1" cellpadding="12" cellspacing="0">
-<tr>
-
-<td align="center" width="400">
-
-<h3>🔥 Official Account</h3>
-
-<a href="https://www.instagram.com/guru.mounesh/">
-<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/WhatsApp%20Image%202026-03-10%20at%2023.33.13.jpeg" width="300">
-</a>
-
-<br><br>
-
-<b>@guru.mounesh</b>
-
-</td>
-
-<td align="center" width="400">
-
-<h3>👨‍💻 Personal Account</h3>
-
-<a href="https://www.instagram.com/guru_patil__03/">
-<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Screenshot%202026-03-10%20230616.png" width="300">
-</a>
-
-<br><br>
-
-<b>@guru_patil__03</b>
-
-</td>
-
-</tr>
-</table>
-
-<div align="center">
-
-<hr width="65%">
-
-⭐ Follow the journey of **AI • Tech Education • Startup Building**
-
-</div>
