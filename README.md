@@ -750,7 +750,7 @@
 
 <br><br>
 
-<b>@guru_patil_03</b>
+<b>@guru_patil__03</b>
 
 </td>
 
@@ -762,5 +762,77 @@
 <hr width="60%">
 
 ⭐ Follow the journey of AI • Tech • Startup Building
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Follow%20Me%20On-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+
+# <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35"> Instagram Presence
+
+### 🚀 AI Engineer • Trainer • Startup Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=E4405F&center=true&vCenter=true&width=500&lines=Follow+Our+Tech+Journey;AI+Engineering+%7C+Teaching+%7C+Startups;Building+The+Future+With+Code"/>
+
+<hr width="65%">
+
+</div>
+
+<table align="center" border="1" cellpadding="12" cellspacing="0">
+<tr>
+
+<td align="center" width="400">
+
+<h3>🔥 Official Account</h3>
+
+<a href="https://www.instagram.com/guru.mounesh/">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/WhatsApp%20Image%202026-03-10%20at%2023.33.13.jpeg" width="300">
+</a>
+
+<br><br>
+
+<b>@guru.mounesh</b>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Students%20Trained-60000%2B-blue?style=flat-square">
+
+<br>
+
+<img src="https://img.shields.io/badge/Role-AI%20Engineer-purple?style=flat-square">
+
+</td>
+
+<td align="center" width="400">
+
+<h3>👨‍💻 Personal Account</h3>
+
+<a href="https://www.instagram.com/guru_patil_03/">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Screenshot%202026-03-10%20230616.png" width="300">
+</a>
+
+<br><br>
+
+<b>@guru_patil__03</b>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Life-Coding%20%7C%20Learning-orange?style=flat-square">
+
+<br>
+
+<img src="https://img.shields.io/badge/Journey-Startup%20Builder-green?style=flat-square">
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+<hr width="65%">
+
+⭐ Follow the journey of **AI • Tech Education • Startup Building**
 
 </div>
