@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Handshake.gif" width="60"></a>
 </h3> 
 
@@ -12,16 +12,16 @@
   <img alt="Gmail" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
 </a></p>  
 
-<div align="center">
-
-### <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="28"/> Instagram Accounts
-
-
+<div align="center"> -->
 <hr width="35%">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=E4405F&center=true&vCenter=true&width=420&lines=Follow+Our+Tech+Journey;AI+Engineering+%7C+Teaching+%7C+Startups;Building+The+Future+With+Code"/>
 
 <hr width="35%">
+
+### <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="28"/> Instagram Accounts
+
+
 
 </div>
 
