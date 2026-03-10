@@ -770,11 +770,6 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"/>
-
-# 🎩 Welcome to My Instagram Space
-
-<img src="https://img.shields.io/badge/Follow%20Me%20On-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
 # <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35"> Instagram Presence
 
@@ -807,7 +802,7 @@
 
 <h3>👨‍💻 Personal Account</h3>
 
-<a href="https://www.instagram.com/guru_patil_03/">
+<a href="https://www.instagram.com/guru_patil__03/">
 <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Screenshot%202026-03-10%20230616.png" width="300">
 </a>
 
