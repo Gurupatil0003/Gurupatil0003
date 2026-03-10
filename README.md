@@ -687,31 +687,6 @@
 -->
 
 
-## 📸 Instagram Accounts
-
-<table>
-<tr>
-<td align="center">
-<b>Official Account</b><br>
-
-<a href="https://www.instagram.com/guru.mounesh/">
-<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/WhatsApp%20Image%202026-03-10%20at%2023.14.41.jpeg" width="350">
-</a>
-
-<br>@guru.mounesh
-</td>
-
-<td align="center">
-<b>Personal Account</b><br>
-
-<a href="https://www.instagram.com/guru_patil_03/">
-<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Screenshot%202026-03-10%20230616.png" width="550">
-</a>
-
-<br>@guru_patil_03
-</td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -720,60 +695,6 @@
 ### Connect With My Profiles
 
 <hr width="60%">
-
-</div>
-
-<table align="center" border="1" cellpadding="12" cellspacing="0">
-<tr>
-
-<td align="center" width="400">
-
-<b>🔥 Official Account</b><br><br>
-
-<a href="https://www.instagram.com/guru.mounesh/">
-<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/WhatsApp%20Image%202026-03-10%20at%2023.33.13.jpeg" width="300">
-</a>
-
-<br><br>
-
-<b>@guru.mounesh</b>
-
-</td>
-
-<td align="center" width="400">
-
-<b>👨‍💻 Personal Account</b><br><br>
-
-<a href="https://www.instagram.com/guru_patil_03/">
-<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Screenshot%202026-03-10%20230616.png" width="350">
-</a>
-
-<br><br>
-
-<b>@guru_patil__03</b>
-
-</td>
-
-</tr>
-</table>
-
-<div align="center">
-
-<hr width="60%">
-
-⭐ Follow the journey of AI • Tech • Startup Building
-
-</div>
-
-
-
-
-<div align="center">
-
-
-# <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35"> Instagram Presence
-
-### 🚀 AI Engineer • Trainer • Startup Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=E4405F&center=true&vCenter=true&width=500&lines=Follow+Our+Tech+Journey;AI+Engineering+%7C+Teaching+%7C+Startups;Building+The+Future+With+Code"/>
 
