@@ -695,7 +695,7 @@
 <b>Official Account</b><br>
 
 <a href="https://www.instagram.com/guru.mounesh/">
-<img src="images/official.png" width="350">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Screenshot%202026-03-10%20230403.png" width="350">
 </a>
 
 <br>@guru.mounesh
@@ -705,7 +705,7 @@
 <b>Personal Account</b><br>
 
 <a href="https://www.instagram.com/guru_patil_03/">
-<img src="images/personal.png" width="350">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Screenshot%202026-03-10%20230616.png" width="350">
 </a>
 
 <br>@guru_patil_03
