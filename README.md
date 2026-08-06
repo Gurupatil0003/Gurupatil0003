@@ -20,7 +20,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=E4405F&center=true&vCenter=true&width=420&lines=Follow+Our+Tech+Journey;AI+Engineering+%7C+Teaching+%7C+Startups;Building+The+Future+With+Code"/>
 
 <hr width="35%">
-
+<img align="right" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR2OWFubXN2N3l3ZmUxdm54dHJiMnB3dGUxYjE1cmV6dGRvaGVyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eJ1U3jkPwvnGTcTiRz/giphy.gif">
 ### <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="28"/> Instagram Accounts
 
 </div>
