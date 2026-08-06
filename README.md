@@ -1,3 +1,4 @@
+<img width="272" height="480" alt="giphy" src="https://github.com/user-attachments/assets/80d401cb-7f43-45b6-b3af-22a270e04e98" />
 <!-- <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Handshake.gif" width="60"></a>
 </h3> 
@@ -17,6 +18,7 @@
 <img align="right" alt="Coding GIF" width="350" 
     <img align="right" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMyZHIyendwcnFtb2huemxwcHQwM2g2a2E0djZ6M241MmYxcThmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kvn0FeqyOXgohYNBNa/giphy.gif">
 <hr width="35%">
+<img width="272" height="480" alt="giphy" src="https://github.com/user-attachments/assets/5ade9191-8f2f-4efd-b7db-9ca216040107" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=E4405F&center=true&vCenter=true&width=420&lines=Follow+Our+Tech+Journey;AI+Engineering+%7C+Teaching+%7C+Startups;Building+The+Future+With+Code"/>
 
