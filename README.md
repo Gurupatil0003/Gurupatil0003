@@ -50,11 +50,7 @@
 </tr>
 </table>
 
-<img align="right"
-     width="300"
-     alt="Goku Ultra Instinct"
-     src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/goku-ultra-instinct-gif-find-share-on-giphy_transparent%20(1).gif">
-<div align="center">
+
 
 <hr width="45%">
 
