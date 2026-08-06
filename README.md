@@ -14,9 +14,9 @@
 </a></p>  
 
 <div align="center"> -->
-<img align="right" width="350" alt="Goku Ultra Instinct" src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/goku-ultra-instinct-gif-find-share-on-giphy_transparent%20(1).gif">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=E4405F&center=true&vCenter=true&width=420&lines=Follow+Our+Tech+Journey;AI+Engineering+%7C+Teaching+%7C+Startups;Building+The+Future+With+Code"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/goku.gif" alt="Goku">
 
+<hr width="35%">
 <hr width="35%">
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="28"/> Instagram Accounts
 </div>
