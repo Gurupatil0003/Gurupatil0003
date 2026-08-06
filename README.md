@@ -1,4 +1,3 @@
-<img width="272" height="480" alt="giphy" src="https://github.com/user-attachments/assets/80d401cb-7f43-45b6-b3af-22a270e04e98" />
 <!-- <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Handshake.gif" width="60"></a>
 </h3> 
