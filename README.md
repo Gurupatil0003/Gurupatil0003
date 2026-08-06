@@ -25,6 +25,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="28"/> Instagram Accounts
 </div>
 </div>
+</div>
 
 <table align="center" border="1" cellpadding="10" cellspacing="0">
 <tr>
