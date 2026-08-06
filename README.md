@@ -14,9 +14,7 @@
 </a></p>  
 
 <div align="center"> -->
-<div align="center">
-<img align="right" width="350" alt="Coding GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFkdGFkNHF6OGcxeXFkbnNhYXVnc3pxcHJxeTZpNHFzMzVnMDQ0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gVUhlXhETaRRxzeHO/giphy.gif">
-
+<img align="right" width="350" alt="Goku Ultra Instinct" src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/goku-ultra-instinct-gif-find-share-on-giphy_transparent%20(1).gif">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=E4405F&center=true&vCenter=true&width=420&lines=Follow+Our+Tech+Journey;AI+Engineering+%7C+Teaching+%7C+Startups;Building+The+Future+With+Code"/>
 
 <hr width="35%">
