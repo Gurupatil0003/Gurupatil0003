@@ -1,7 +1,7 @@
 <!-- <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Handshake.gif" width="60"></a>
 </h3> 
-
+<img align="right" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR2OWFubXN2N3l3ZmUxdm54dHJiMnB3dGUxYjE1cmV6dGRvaGVyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eJ1U3jkPwvnGTcTiRz/giphy.gif">
 
 
 <p align="center">
