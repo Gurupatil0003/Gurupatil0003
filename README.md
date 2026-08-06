@@ -14,7 +14,9 @@
 
 <div align="center"> -->
 <div align="center">
+<img align="right" alt="Coding GIF" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMyZHIyendwcnFtb2huemxwcHQwM2g2a2E0djZ6M241MmYxcThmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kvn0FeqyOXgohYNBNa/giphy.gif" />
 
+# Hi there 👋, I'm Guru Patil
 <hr width="35%">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=E4405F&center=true&vCenter=true&width=420&lines=Follow+Our+Tech+Journey;AI+Engineering+%7C+Teaching+%7C+Startups;Building+The+Future+With+Code"/>
