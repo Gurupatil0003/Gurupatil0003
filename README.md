@@ -15,9 +15,7 @@
 
 <div align="center"> -->
 <div align="center">
-<img align="right" alt="Coding GIF" width="350" 
-    <img align="right" width="300" 
-<hr width="35%">
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=E4405F&center=true&vCenter=true&width=420&lines=Follow+Our+Tech+Journey;AI+Engineering+%7C+Teaching+%7C+Startups;Building+The+Future+With+Code"/>
 
