@@ -25,9 +25,10 @@
 <table align="center" border="1" cellpadding="10" cellspacing="0">
 <tr>
 
-<td align="center" width="350">
-<img align="right" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMyZHIyendwcnFtb2huemxwcHQwM2g2a2E0djZ6M241MmYxcThmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kvn0FeqyOXgohYNBNa/giphy.gif">
-<h4>🔥 Official Account</h4>
+<img align="right"
+     width="300"
+     alt="Goku Ultra Instinct"
+     src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/goku-ultra-instinct-gif-find-share-on-giphy_transparent%20(1).gif"><h4>🔥 Official Account</h4>
 
 <a href="https://www.instagram.com/guru.mounesh/">
 <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/WhatsApp%20Image%202026-03-10%20at%2023.33.13.jpeg" width="260">
