@@ -28,7 +28,7 @@
 <tr>
 
 <td align="center" width="350">
-
+<img align="right" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMyZHIyendwcnFtb2huemxwcHQwM2g2a2E0djZ6M241MmYxcThmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kvn0FeqyOXgohYNBNa/giphy.gif">
 <h4>🔥 Official Account</h4>
 
 <a href="https://www.instagram.com/guru.mounesh/">
