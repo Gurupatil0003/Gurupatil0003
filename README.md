@@ -141,10 +141,7 @@
 
 </table>
 </br>
-<img align="right"
-     src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/asset/output-onlinegiftools%20(2).gif?raw=true"
-     width="220"
-     hspace="10"/>
+
      
 ##### NOW
 
