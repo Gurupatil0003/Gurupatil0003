@@ -26,17 +26,7 @@
 
 
 
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/girl-with-axe-and-shield-pixel-art-de71pgi5pyvzk9ba.webp"
-       width="180"
-       style="margin-bottom:-40px;">
-
-
-</div>
-
-<hr width="35%">
 
 <div align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="28"/>
