@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/a-cartoon-of-luffy-from-one-piece-running-with-a-tail-2wgrgz8171qzbci4.webp" width="220"/>
-  <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/a-drawing-of-a-man-in-a-straw-hat-standing-in-front-of-a-pink-light-9ul7hedy6bp3uekq.webp" width="220"/>
-  <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/man-riding-frog-with-fire-lo2mfafjfnpq045k.webp" width="220"/>
+  <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/dggvfh9-9a5a7456-54a4-4a8f-8f03-73441a3aa718.gif" width="220"/>
+  <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/d8em14o-70da907c-bd49-4dce-b3f8-7563782f6753.png" width="220"/>
 </p>
 <!-- <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Handshake.gif" width="60"></a>
