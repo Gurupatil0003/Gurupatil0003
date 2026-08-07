@@ -22,7 +22,7 @@
     </h4><img width="100"
 src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/a-pixel-art-drawing-of-a-man-holding-a-sword-in-his-hand-i6qh8y25j1m1lj5a.webp"> 
     <b>@guru.mounesh</b> </td> <td align="center" width="350"> <h4>👨‍💻 Personal Account</h4><img width="100"
-src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/super-saiyan-gif-find-share-on-giphy_transparent.gif"> <a href="https://www.instagram.com/guru_patil__03/"> <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Screenshot%202026-03-10%20230616.png" width="700"> </a> <br><br> <b>@guru_patil__03</b> </td> 
+src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/super-saiyan-gif-find-share-on-giphy_transparent.gif"> <a href="https://www.instagram.com/guru_patil__03/"> <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Screenshot%202026-03-10%20230616.png" width="900"> </a> <br><br> <b>@guru_patil__03</b> </td> 
 <div align="right">
 
 
