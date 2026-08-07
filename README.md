@@ -50,10 +50,10 @@
       <!-- Character -->
     <td align="center" width="180">
       <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/girl-with-axe-and-shield-pixel-art-de71pgi5pyvzk9ba.webp" width="180">
-    </td>
 
-  <td align="center" width="180">
-      <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/asset/output-onlinegiftools%20(3).gif" width="390"/>
+
+
+   <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/asset/output-onlinegiftools%20(3).gif" width="390"/>
     </td>
 
 
