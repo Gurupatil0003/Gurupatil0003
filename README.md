@@ -32,6 +32,9 @@
   <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/girl-with-axe-and-shield-pixel-art-de71pgi5pyvzk9ba.webp"
        width="180"
        style="margin-bottom:-40px;">
+
+  <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/asset/output-onlinegiftools%20(3).gif" width="390"/>
+
 </div>
 
 <hr width="35%">
