@@ -6,7 +6,6 @@
   <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/output-onlinegiftools.gif" width="220"/>
     <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/asset/output-onlinegiftools%20(1).gif" width="150"/>
 
-  <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/asset/output-onlinegiftools%20(2).gif" width="220"/>
 
 </p>
 <!-- <div align="center">
@@ -145,6 +144,8 @@
 
 ##### NOW
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently working <img alt="@" src="https://img.shields.io/badge/@-red?style=flat-square&logoColor=white"><img alt="Bytexl" src="https://img.shields.io/badge/Bytexl-3498DB?style=flat-square"> 
+
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/asset/output-onlinegiftools%20(2).gif" width="220"/>
 
 #### Previous Company
 - <img alt="Data Scientist" src="https://img.shields.io/badge/-Data%20Scientist-4E4E4E?style=flat-square&logo=data&logoColor=white"><img alt="Black Arrow Badge" src="https://img.shields.io/badge/→-000000?style=flat-square"><img alt="@" src="https://img.shields.io/badge/@-red?style=flat-square&logoColor=white"><img alt="UpGrade" src="https://img.shields.io/badge/UpGrade-3498DB?style=flat-square"><img alt="And" src="https://img.shields.io/badge/And-black?style=flat-square&logoColor=white"><img alt="Soothsayer Analytics" src="https://img.shields.io/badge/-Soothsayer%20Analytics-3498DB?style=flat-square&logo=data&logoColor=white">
