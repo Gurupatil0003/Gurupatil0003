@@ -90,7 +90,8 @@
 </tr>
 </table> <div align="center"> <hr width="45%"> </div> <h1 align="center"> <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/man-riding-frog-with-fire-lo2mfafjfnpq045k.webp?raw=true" width="150"/>
 <a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&random=false&width=435&lines=%22Koukai+sezu+ni+jinsei+o+ikiru+hitsuyou+ga+arimasu.%22" alt="Typing SVG" /></a>
-    <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/luffy-wano%20(1).gif" width="99"/></h1>
+    <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/a-drawing-of-a-man-in-a-straw-hat-standing-in-front-of-a-pink-light-9ul7hedy6bp3uekq.webp?raw=true" width="150"/>
+</h1>
 </div> 
     <p align="center">
         
