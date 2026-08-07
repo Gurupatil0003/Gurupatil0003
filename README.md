@@ -43,7 +43,7 @@
 
 
 
-   <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/asset/output-onlinegiftools%20(3).gif" width="200"/>
+   <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/asset/naruto-and-hinata-laying-down-pixel-art-5pf1oap1qunf3v5x.webp" width="180"/>
     </td>
 
 
