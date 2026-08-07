@@ -1,4 +1,4 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/dffd98q-33b01d47-41d1-42ef-aa72-7b20b99918ec.gif" width="220"/>
     <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/dffd98q-33b01d47-41d1-42ef-aa72-7b20b99918ec.gif" width="220"/>
 
