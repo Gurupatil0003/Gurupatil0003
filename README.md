@@ -98,11 +98,7 @@
 <img src="https://komarev.com/ghpvc/?username=Gurupatil0003" alt="Gurupatil0003"/> <a href="https://github.com/Gurupatil0003?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/Gurupatil0003" alt="Repos"/></a> <img src="https://badges.pufler.dev/years/Gurupatil0003" alt="Active_Years"/> <a href="https://github.com/Gurupatil0003/Gurupatil0003" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/Gurupatil0003&logoColor=white"" alt="commits"/> <!-- <a href="https://github.com/Gurupatil0003/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/Gurupatil0003/Gurupatil003" /></a>--> <a href="https://github.com/Gurupatil0003?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Gurupatil0003?color=4C1&logo=github"></a>
 <!---<a href="https://github.com/Gurupatil0003" target="_blank"><img alt="Gurupatil0003" src="https://badges.pufler.dev/visits/Gurupatil0003/Gurupatil0003?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>--1>
     <!---<img src="https://badges.pufler.dev/gists/Gurupatil0003" alt="Gurupatil0003"/>-->
-<img align="right"
-     width="300"
-     alt="Goku Ultra Instinct"
-     src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/goku-ultra-instinct-gif-find-share-on-giphy_transparent%20(1).gif">
-</p>
+
 
 
 <p align="center">
