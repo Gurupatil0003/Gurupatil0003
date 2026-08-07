@@ -14,8 +14,7 @@
 </a></p>  
 
 <div align="center"> -->
-</div>
-<iframe src='https://gifdb.com/sticker/a-cartoon-of-luffy-from-one-piece-running-with-a-tail-2wgrgz8171qzbci4.html?embed=true' width='480' height='480' frameborder='0' allowfullscreen></iframe>
+
 </h4><img width="250"
 src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/a-pixel-art-drawing-of-a-man-holding-a-sword-in-his-hand-i6qh8y25j1m1lj5a.webp"> 
 </div>
