@@ -88,12 +88,23 @@
 
 
 </tr>
- </table> <div align="center"> <hr width="45%"> </div> <h1 align="center"> <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/de061af8b29c72b745e3fd3f5e16d4ab%20(1).png" width="50"/><a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&random=false&width=435&lines=%22Koukai+sezu+ni+jinsei+o+ikiru+hitsuyou+ga+arimasu.%22" alt="Typing SVG" /></a>
-    <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/luffy-wano%20(1).gif" width="99"/></h1>
-</div> 
-    <p align="center">
-        
-<img src="https://komarev.com/ghpvc/?username=Gurupatil0003" alt="Gurupatil0003"/> <a href="https://github.com/Gurupatil0003?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/Gurupatil0003" alt="Repos"/></a> <img src="https://badges.pufler.dev/years/Gurupatil0003" alt="Active_Years"/> <a href="https://github.com/Gurupatil0003/Gurupatil0003" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/Gurupatil0003&logoColor=white"" alt="commits"/> <!-- <a href="https://github.com/Gurupatil0003/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/Gurupatil0003/Gurupatil003" /></a>--> <a href="https://github.com/Gurupatil0003?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Gurupatil0003?color=4C1&logo=github"></a>
+<div align="center">
+
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/a-cartoon-of-luffy-from-one-piece-running-with-a-tail-2wgrgz8171qzbci4.webp?raw=true" width="150"/>
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/a-drawing-of-a-man-in-a-straw-hat-standing-in-front-of-a-pink-light-9ul7hedy6bp3uekq.webp?raw=true" width="150"/>
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/man-riding-frog-with-fire-lo2mfafjfnpq045k.webp?raw=true" width="150"/>
+
+<h1>
+  Hi 👋 I'm Guru Patil
+</h1>
+
+<h3>
+Full Stack Developer • AI Enthusiast • Open Source Contributor
+</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Koukai+sezu+ni+jinsei+o+ikiru+hitsuyou+ga+arimasu." />
+
+</div>
 <!---<a href="https://github.com/Gurupatil0003" target="_blank"><img alt="Gurupatil0003" src="https://badges.pufler.dev/visits/Gurupatil0003/Gurupatil0003?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>--1>
     <!---<img src="https://badges.pufler.dev/gists/Gurupatil0003" alt="Gurupatil0003"/>-->
 <img align="right"
