@@ -33,7 +33,6 @@
        width="180"
        style="margin-bottom:-40px;">
 
-  <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/asset/output-onlinegiftools%20(3).gif" width="390"/>
 
 </div>
 
@@ -52,6 +51,11 @@
     <td align="center" width="180">
       <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/girl-with-axe-and-shield-pixel-art-de71pgi5pyvzk9ba.webp" width="180">
     </td>
+
+  <td align="center" width="180">
+      <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/asset/output-onlinegiftools%20(3).gif" width="390"/>
+    </td>
+
 
   <td align="center" width="350">
       <img align="right" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMyZHIyendwcnFtb2huemxwcHQwM2g2a2E0djZ6M241MmYxcThmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kvn0FeqyOXgohYNBNa/giphy.gif">
