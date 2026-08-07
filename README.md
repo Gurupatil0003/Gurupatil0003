@@ -24,7 +24,9 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/girl-with-axe-and-shield-pixel-art-de71pgi5pyvzk9ba.webp" width="180">
+  <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/girl-with-axe-and-shield-pixel-art-de71pgi5pyvzk9ba.webp"
+       width="180"
+       style="margin-bottom:-40px;">
 </div>
 
 <hr width="35%">
