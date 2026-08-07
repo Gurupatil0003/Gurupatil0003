@@ -43,7 +43,7 @@
 
 
 
-   <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/asset/output-onlinegiftools%20(3).gif" width="180"/>
+   <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/asset/output-onlinegiftools%20(3).gif" width="200"/>
     </td>
 
 
