@@ -57,10 +57,6 @@
 
 <div align="center">
 
-  <span style="position: relative; display: inline-block;">
-    <span style="background: #161b22; color: #58a6ff; padding: 6px 14px; border-radius: 8px; font-weight: bold;">
-      &lt; DEVELOPER /&gt;
-    </span>
 
 <img
   src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/asset/5LST.gif"
