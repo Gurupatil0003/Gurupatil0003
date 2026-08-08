@@ -146,7 +146,19 @@
 </table>
 </br>
 
-     
+<div align="center">
+
+
+<img
+  src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/asset/5LST.gif"
+  width="180"
+  style="position: absolute; top: -80px; left: 50%; transform: translateX(-50%);"
+/>
+
+
+  </span>
+
+</div>
 ##### NOW
 
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently working <img alt="@" src="https://img.shields.io/badge/@-red?style=flat-square&logoColor=white"><img alt="Bytexl" src="https://img.shields.io/badge/Bytexl-3498DB?style=flat-square">
