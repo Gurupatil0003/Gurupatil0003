@@ -1,3 +1,45 @@
+<div align="center">
+
+### ⚡ MY BOYS ⚡
+
+<sub>characters that live rent-free in my head</sub>
+
+<br><br>
+
+<img src="YOUR_IMAGE_URL_01" width="100"/>
+<img src="YOUR_IMAGE_URL_02" width="100"/>
+<img src="YOUR_IMAGE_URL_03" width="100"/>
+<img src="YOUR_IMAGE_URL_04" width="100"/>
+<img src="YOUR_IMAGE_URL_05" width="100"/>
+<img src="YOUR_IMAGE_URL_06" width="100"/>
+<img src="YOUR_IMAGE_URL_07" width="100"/>
+<img src="YOUR_IMAGE_URL_08" width="100"/>
+<img src="YOUR_IMAGE_URL_09" width="100"/>
+<img src="YOUR_IMAGE_URL_10" width="100"/>
+<img src="YOUR_IMAGE_URL_11" width="100"/>
+<img src="YOUR_IMAGE_URL_12" width="100"/>
+<img src="YOUR_IMAGE_URL_13" width="100"/>
+<img src="YOUR_IMAGE_URL_14" width="100"/>
+<img src="YOUR_IMAGE_URL_15" width="100"/>
+<img src="YOUR_IMAGE_URL_16" width="100"/>
+<img src="YOUR_IMAGE_URL_17" width="100"/>
+<img src="YOUR_IMAGE_URL_18" width="100"/>
+<img src="YOUR_IMAGE_URL_19" width="100"/>
+<img src="YOUR_IMAGE_URL_20" width="100"/>
+<img src="YOUR_IMAGE_URL_21" width="100"/>
+<img src="YOUR_IMAGE_URL_22" width="100"/>
+<img src="YOUR_IMAGE_URL_23" width="100"/>
+<img src="YOUR_IMAGE_URL_24" width="100"/>
+<img src="YOUR_IMAGE_URL_25" width="100"/>
+<img src="YOUR_IMAGE_URL_26" width="100"/>
+<img src="YOUR_IMAGE_URL_27" width="100"/>
+<img src="YOUR_IMAGE_URL_28" width="100"/>
+<img src="YOUR_IMAGE_URL_29" width="100"/>
+<img src="YOUR_IMAGE_URL_30" width="100"/>
+
+</div>
+
+
 <!--<p align="center">
   <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/dffd98q-33b01d47-41d1-42ef-aa72-7b20b99918ec.gif" width="220"/>
     <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/dffd98q-33b01d47-41d1-42ef-aa72-7b20b99918ec.gif" width="220"/>
