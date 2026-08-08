@@ -23,18 +23,7 @@
 </a></p>  
 
 <div align="center"> -->
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/asset/YAS0.gif" width="180"/>
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="28"/>
-      &nbsp;
-      <b>Instagram Accounts</b>
-    </td>
-  </tr>
-</table>
+
 
 
 
@@ -43,9 +32,9 @@
 
 
 <div align="center">
-     <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/asset/YAS0.gif" width="180"/>
+     <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/asset/YAS0.gif" width="200"/>
 
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="28"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="58"/>
   <b>Instagram Accounts</b>
 </div>
 
