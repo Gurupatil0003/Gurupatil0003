@@ -26,13 +26,12 @@
 
 
 <div align="center">
-  <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/asset/YAS0.gif" width="180"/>
-
-  <br>
-
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="28"/>
+  <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/asset/YAS0.gif" width="180" align="middle"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="28" align="middle"/>
   <b>Instagram Accounts</b>
 </div>
+
 
 
 
