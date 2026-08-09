@@ -1,3 +1,29 @@
+<table width="100%">
+<tr>
+<td width="100%" align="center">
+
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/YAS0.gif" width="35">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/naruto-and-hinata-laying-down-pixel-art-5pf1oap1qunf3v5x.webp" width="35">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/ZLBh.gif" width="35">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/dbz-goku_transparent.gif" width="35">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(1).gif" width="35">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(2).gif" width="35">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(3).gif" width="35">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools.gif" width="35">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/a-pixel-art-of-luffy-from-one-piece-running-8bkfh4qer2amf3rj.webp" width="35">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/a-pixel-art-of-luffy-from-one-piece-with-a-straw-hat-on-fnxcaiugl5s2tpig.webp" width="35">
+
+<!-- KEEP ADDING GIFS FROM HERE -->
+
+</td>
+</tr>
+</table>
 <h2 align="center">⚡ MY BOYS ⚡</h2>
 
 <p align="center">
