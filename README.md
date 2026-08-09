@@ -14,6 +14,14 @@
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/ZLBh.gif" width="35">
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/dbz-goku_transparent.gif" width="35">
 
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/a-cartoon-of-luffy-from-one-piece-running-with-a-tail-2wgrgz8171qzbci4.webp" width="35">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/a-drawing-of-a-man-in-a-straw-hat-standing-in-front-of-a-pink-light-9ul7hedy6bp3uekq.webp" width="35">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/a-pixel-art-drawing-of-a-man-holding-a-sword-in-his-hand-i6qh8y25j1m1lj5a.webp" width="35">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/a-pixel-art-of-luffy-from-one-piece-running-8bkfh4qer2amf3rj.webp" width="35">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/a-pixel-art-of-luffy-from-one-piece-with-a-straw-hat-on-fnxcaiugl5s2tpig.webp" width="35">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/dbz-goku_transparent.gif" width="35">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/dbz-goku_transparent.gif" width="35">
+
 <br>
 
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(1).gif" width="35">
