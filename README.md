@@ -8,8 +8,19 @@
 
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/ZLBh.gif" width="100"/>
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/5LST.gif" width="100"/>
-<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/EP0G.gif" width="100"/>
-<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/379942_morganstedmanmsng_naruto-sprite-gif.gif" width="100"/>
+ <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/ZLBh.gif" width="55">
+  <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/5LST.gif" width="55">
+  <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/EP0G.gif" width="55">
+  <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/379942_morganstedmanmsng_naruto-sprite-gif.gif" width="55">
+  <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/106892.gif" width="55">
+  <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(3).gif" width="55">
+  <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(2).gif" width="55">
+  <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(1).gif" width="55">
+  <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools.gif" width="55">
+  <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/dbz-goku_transparent.gif" width="55">
+  <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/a-pixel-art-of-luffy-from-one-piece-running-8bkfh4qer2amf3rj.webp" width="55">
+  <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/a-pixel-art-of-luffy-from-one-piece-with-a-straw-hat-on-fnxcaiugl5s2tpig.webp" width="55">
+</p><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/379942_morganstedmanmsng_naruto-sprite-gif.gif" width="100"/>
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/106892.gif" width="100"/>
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/output-onlinegiftools%20(3).gif" width="100"/>
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/output-onlinegiftools%20(2).gif" width="100"/>
