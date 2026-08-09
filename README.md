@@ -1,3 +1,36 @@
+<table>
+  <tr>
+    <td><img src="GIF_URL_1" width="100"></td>
+    <td><img src="GIF_URL_2" width="100"></td>
+    <td><img src="GIF_URL_3" width="100"></td>
+  </tr>
+  <tr>
+    <td><img src="GIF_URL_4" width="100"></td>
+    <td><img src="GIF_URL_5" width="100"></td>
+    <td><img src="GIF_URL_6" width="100"></td>
+  </tr>
+  <tr>
+    <td><img src="GIF_URL_7" width="100"></td>
+    <td><img src="GIF_URL_8" width="100"></td>
+    <td><img src="GIF_URL_9" width="100"></td>
+  </tr>
+  <tr>
+    <td><img src="GIF_URL_10" width="100"></td>
+    <td><img src="GIF_URL_11" width="100"></td>
+    <td><img src="GIF_URL_12" width="100"></td>
+  </tr>
+  <tr>
+    <td><img src="GIF_URL_13" width="100"></td>
+    <td><img src="GIF_URL_14" width="100"></td>
+    <td><img src="GIF_URL_15" width="100"></td>
+  </tr>
+  <tr>
+    <td><img src="GIF_URL_16" width="100"></td>
+    <td><img src="GIF_URL_17" width="100"></td>
+    <td><img src="GIF_URL_18" width="100"></td>
+  </tr>
+</table>
+
 <div align="center">
 
 ### ⚡ MY BOYS ⚡
@@ -31,30 +64,7 @@
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/dbz-goku_transparent.gif" width="100"/>
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/a-pixel-art-of-luffy-from-one-piece-running-8bkfh4qer2amf3rj.webp" width="100"/>
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/a-pixel-art-of-luffy-from-one-piece-with-a-straw-hat-on-fnxcaiugl5s2tpig.webp" width="100"/>
-<img src="YOUR_IMAGE_URL_07" width="100"/>
-<img src="YOUR_IMAGE_URL_08" width="100"/>
-<img src="YOUR_IMAGE_URL_09" width="100"/>
-<img src="YOUR_IMAGE_URL_10" width="100"/>
-<img src="YOUR_IMAGE_URL_11" width="100"/>
-<img src="YOUR_IMAGE_URL_12" width="100"/>
-<img src="YOUR_IMAGE_URL_13" width="100"/>
-<img src="YOUR_IMAGE_URL_14" width="100"/>
-<img src="YOUR_IMAGE_URL_15" width="100"/>
-<img src="YOUR_IMAGE_URL_16" width="100"/>
-<img src="YOUR_IMAGE_URL_17" width="100"/>
-<img src="YOUR_IMAGE_URL_18" width="100"/>
-<img src="YOUR_IMAGE_URL_19" width="100"/>
-<img src="YOUR_IMAGE_URL_20" width="100"/>
-<img src="YOUR_IMAGE_URL_21" width="100"/>
-<img src="YOUR_IMAGE_URL_22" width="100"/>
-<img src="YOUR_IMAGE_URL_23" width="100"/>
-<img src="YOUR_IMAGE_URL_24" width="100"/>
-<img src="YOUR_IMAGE_URL_25" width="100"/>
-<img src="YOUR_IMAGE_URL_26" width="100"/>
-<img src="YOUR_IMAGE_URL_27" width="100"/>
-<img src="YOUR_IMAGE_URL_28" width="100"/>
-<img src="YOUR_IMAGE_URL_29" width="100"/>
-<img src="YOUR_IMAGE_URL_30" width="100"/>
+
 </tr>
 </table>
 </div>
