@@ -1,6 +1,13 @@
 <table width="100%">
 <tr>
-<td width="100%" align="center">
+<td
+  align="center"
+  style="
+    border: 2px solid #58a6ff;
+    border-radius: 15px;
+    padding: 15px;
+  "
+>
 
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/YAS0.gif" width="35">
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/naruto-and-hinata-laying-down-pixel-art-5pf1oap1qunf3v5x.webp" width="35">
@@ -16,10 +23,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/a-pixel-art-of-luffy-from-one-piece-running-8bkfh4qer2amf3rj.webp" width="35">
-<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/a-pixel-art-of-luffy-from-one-piece-with-a-straw-hat-on-fnxcaiugl5s2tpig.webp" width="35">
-
-<!-- KEEP ADDING GIFS FROM HERE -->
+<!-- KEEP ADDING GIFS -->
 
 </td>
 </tr>
