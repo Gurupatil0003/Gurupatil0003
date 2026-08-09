@@ -1,3 +1,103 @@
+<h2 align="center">⚡ MY BOYS ⚡</h2>
+
+<p align="center">
+  <i>Characters that live rent-free in my head.</i>
+</p>
+
+<br>
+
+<table width="100%">
+<tr>
+
+<!-- ╔══════════════ CARD 1 ══════════════╗ -->
+<td width="50%" valign="top">
+
+<h3 align="center">🍥 NARUTO</h3>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/YAS0.gif" width="40">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/naruto-and-hinata-laying-down-pixel-art-5pf1oap1qunf3v5x.webp" width="40">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/ZLBh.gif" width="40">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/YAS0.gif" width="40">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/naruto-and-hinata-laying-down-pixel-art-5pf1oap1qunf3v5x.webp" width="40">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/ZLBh.gif" width="40">
+
+<br>
+
+<!-- ADD MORE GIFS -->
+
+</p>
+
+</td>
+
+<!-- ╔══════════════ CARD 2 ══════════════╗ -->
+<td width="50%" valign="top">
+
+<h3 align="center">🔥 DRAGON BALL</h3>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/dbz-goku_transparent.gif" width="40">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools.gif" width="40">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(1).gif" width="40">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(2).gif" width="40">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(3).gif" width="40">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools.gif" width="40">
+
+<br>
+
+<!-- ADD MORE GIFS -->
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<!-- ╔══════════════ CARD 3 ══════════════╗ -->
+<td width="50%" valign="top">
+
+<h3 align="center">🍖 ONE PIECE</h3>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/a-pixel-art-of-luffy-from-one-piece-running-8bkfh4qer2amf3rj.webp" width="40">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/a-pixel-art-of-luffy-from-one-piece-with-a-straw-hat-on-fnxcaiugl5s2tpig.webp" width="40">
+
+<br>
+
+<!-- ADD MORE GIFS -->
+
+</p>
+
+</td>
+
+<!-- ╔══════════════ CARD 4 ══════════════╗ -->
+<td width="50%" valign="top">
+
+<h3 align="center">⚡ FAVOURITES</h3>
+
+<p align="center">
+
+<!-- ADD 100+ GIFS HERE -->
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+
 <table width="100%">
 <tr>
 
