@@ -6,6 +6,8 @@
 
 <br><br>
 <table>
+
+<tr>
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/ZLBh.gif" width="100"/>
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/5LST.gif" width="100"/>
  <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/ZLBh.gif" width="55">
@@ -53,6 +55,7 @@
 <img src="YOUR_IMAGE_URL_28" width="100"/>
 <img src="YOUR_IMAGE_URL_29" width="100"/>
 <img src="YOUR_IMAGE_URL_30" width="100"/>
+</tr>
 </table>
 </div>
 
