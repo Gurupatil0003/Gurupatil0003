@@ -1,4 +1,138 @@
 <table>
+<tr>
+
+<!-- SECTION 1 -->
+<td align="center">
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/YAS0.gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/naruto-and-hinata-laying-down-pixel-art-5pf1oap1qunf3v5x.webp" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/ZLBh.gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/dbz-goku_transparent.gif" width="35"></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(1).gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(2).gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(3).gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools.gif" width="35"></td>
+</tr>
+</table>
+</td>
+
+<!-- SECTION 2 -->
+<td align="center">
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/a-pixel-art-of-luffy-from-one-piece-running-8bkfh4qer2amf3rj.webp" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/a-pixel-art-of-luffy-from-one-piece-with-a-straw-hat-on-fnxcaiugl5s2tpig.webp" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/YAS0.gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/ZLBh.gif" width="35"></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/dbz-goku_transparent.gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools.gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(1).gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(2).gif" width="35"></td>
+</tr>
+</table>
+</td>
+
+<!-- SECTION 3 -->
+<td align="center">
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(3).gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools.gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/YAS0.gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/ZLBh.gif" width="35"></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/dbz-goku_transparent.gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/a-pixel-art-of-luffy-from-one-piece-running-8bkfh4qer2amf3rj.webp" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/a-pixel-art-of-luffy-from-one-piece-with-a-straw-hat-on-fnxcaiugl5s2tpig.webp" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/naruto-and-hinata-laying-down-pixel-art-5pf1oap1qunf3v5x.webp" width="35"></td>
+</tr>
+</table>
+</td>
+
+<!-- SECTION 4 -->
+<td align="center">
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/YAS0.gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/ZLBh.gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/dbz-goku_transparent.gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools.gif" width="35"></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(1).gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(2).gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(3).gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/YAS0.gif" width="35"></td>
+</tr>
+</table>
+</td>
+
+<!-- SECTION 5 -->
+<td align="center">
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/ZLBh.gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/dbz-goku_transparent.gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools.gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(1).gif" width="35"></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(2).gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(3).gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/a-pixel-art-of-luffy-from-one-piece-running-8bkfh4qer2amf3rj.webp" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/a-pixel-art-of-luffy-from-one-piece-with-a-straw-hat-on-fnxcaiugl5s2tpig.webp" width="35"></td>
+</tr>
+</table>
+</td>
+
+<!-- SECTION 6 -->
+<td align="center">
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/naruto-and-hinata-laying-down-pixel-art-5pf1oap1qunf3v5x.webp" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/YAS0.gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/ZLBh.gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/dbz-goku_transparent.gif" width="35"></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools.gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(1).gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(2).gif" width="35"></td>
+<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(3).gif" width="35"></td>
+</tr>
+</table>
+</td>
+
+</tr>
+
+<!-- ROW 2 -->
+<tr>
+<td align="center">ADD MORE GIFS HERE</td>
+<td align="center">ADD MORE GIFS HERE</td>
+<td align="center">ADD MORE GIFS HERE</td>
+<td align="center">ADD MORE GIFS HERE</td>
+<td align="center">ADD MORE GIFS HERE</td>
+<td align="center">ADD MORE GIFS HERE</td>
+</tr>
+
+<!-- ROW 3 -->
+<tr>
+<td align="center">ADD MORE GIFS HERE</td>
+<td align="center">ADD MORE GIFS HERE</td>
+<td align="center">ADD MORE GIFS HERE</td>
+<td align="center">ADD MORE GIFS HERE</td>
+<td align="center">ADD MORE GIFS HERE</td>
+<td align="center">ADD MORE GIFS HERE</td>
+</tr>
+
+</table>
+<table>
   <tr>
     <td><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/asset/YAS0.gif" width="20"></td>
     <td><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/asset/naruto-and-hinata-laying-down-pixel-art-5pf1oap1qunf3v5x.webp" width="100"></td>
