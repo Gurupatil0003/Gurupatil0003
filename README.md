@@ -22,6 +22,17 @@
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/dbz-goku_transparent.gif" width="35">
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/dbz-goku_transparent.gif" width="35">
 
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/onepiece/2525256_abceb.gif" width="35">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/onepiece/acehat-one-piece-ace-hat.gif" width="35">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/onepiece/luffy-strawhat.gif" width="35">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/onepiece/sabohat-sabo-hat.gif width="35">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/dbz-goku_transparent.gif" width="35">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/dbz-goku_transparent.gif" width="35">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/dbz-goku_transparent.gif" width="35">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/dbz-goku_transparent.gif" width="35">
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/dbz-goku_transparent.gif" width="35">
+
+
 <br>
 
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(1).gif" width="35">
