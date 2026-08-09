@@ -3,8 +3,6 @@
     <td><img src="GIF_URL_1" width="100"></td>
     <td><img src="GIF_URL_2" width="100"></td>
     <td><img src="GIF_URL_3" width="100"></td>
-  </tr>
-  <tr>
     <td><img src="GIF_URL_4" width="100"></td>
     <td><img src="GIF_URL_5" width="100"></td>
     <td><img src="GIF_URL_6" width="100"></td>
@@ -13,8 +11,6 @@
     <td><img src="GIF_URL_7" width="100"></td>
     <td><img src="GIF_URL_8" width="100"></td>
     <td><img src="GIF_URL_9" width="100"></td>
-  </tr>
-  <tr>
     <td><img src="GIF_URL_10" width="100"></td>
     <td><img src="GIF_URL_11" width="100"></td>
     <td><img src="GIF_URL_12" width="100"></td>
@@ -23,8 +19,6 @@
     <td><img src="GIF_URL_13" width="100"></td>
     <td><img src="GIF_URL_14" width="100"></td>
     <td><img src="GIF_URL_15" width="100"></td>
-  </tr>
-  <tr>
     <td><img src="GIF_URL_16" width="100"></td>
     <td><img src="GIF_URL_17" width="100"></td>
     <td><img src="GIF_URL_18" width="100"></td>
