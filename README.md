@@ -96,7 +96,7 @@
 <table>
 <tr>
 <td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/naruto-and-hinata-laying-down-pixel-art-5pf1oap1qunf3v5x.webp" width="35"></td>
-<td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/YAS0.gif" width="35"></td>
+<img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/YAS0.gif" width="35">
 <td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/ZLBh.gif" width="35"></td>
 <td><img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/dbz-goku_transparent.gif" width="35"></td>
 </tr>
