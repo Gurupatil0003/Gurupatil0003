@@ -12,7 +12,7 @@
 <!-- ╔══════════════ CARD 1 ══════════════╗ -->
 <td width="50%" valign="top">
 
-<h3 align="center">🍥 NARUTO</h3>
+<!--<h3 align="center">🍥 NARUTO</h3><!--->
 
 <p align="center">
 
@@ -37,7 +37,6 @@
 <!-- ╔══════════════ CARD 2 ══════════════╗ -->
 <td width="50%" valign="top">
 
-<h3 align="center">🔥 DRAGON BALL</h3>
 
 <p align="center">
 
@@ -66,7 +65,6 @@
 <!-- ╔══════════════ CARD 3 ══════════════╗ -->
 <td width="50%" valign="top">
 
-<h3 align="center">🍖 ONE PIECE</h3>
 
 <p align="center">
 
@@ -84,7 +82,6 @@
 <!-- ╔══════════════ CARD 4 ══════════════╗ -->
 <td width="50%" valign="top">
 
-<h3 align="center">⚡ FAVOURITES</h3>
 
 <p align="center">
 
