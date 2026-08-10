@@ -51,7 +51,7 @@
 </td>
 </tr>
 </table>
-<h2 align="center">⚡ MY BOYS ⚡</h2>
+<h2 align="center"> THE Characters </h2>
 
 <p align="center">
   <i>Characters that live rent-free in my head.</i>
