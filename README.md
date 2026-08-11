@@ -13,8 +13,8 @@
 
 <!-- G -->
 
-<td><img src="IMG_01" width="32"></td>
-<td><img src="IMG_02" width="32"></td>
+<td><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/super-saiyan-gif-find-share-on-giphy.gif" width="32"></td>
+<td><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/dcnb5xz-d360d272-b2ef-40ab-a2cf-814a75dd3d3c.gif" width="32"></td>
 <td><img src="IMG_03" width="32"></td>
 <td></td>
 
