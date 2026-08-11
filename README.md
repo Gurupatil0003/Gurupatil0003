@@ -3,8 +3,7 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
 
-    <!-- G -->
-    <td valign="top">
+  <td valign="top">
       <table border="0" cellpadding="0" cellspacing="0">
         <tr>
           <td><img src="G1" width="24"></td>
@@ -33,7 +32,7 @@
     </td>
 
     <!-- U -->
-    <td valign="top">
+   <td valign="top">
       <table border="0" cellpadding="0" cellspacing="0">
         <tr>
           <td><img src="U1" width="24"></td>
@@ -64,7 +63,7 @@
     </td>
 
     <!-- R -->
-    <td valign="top">
+   <td valign="top">
       <table border="0" cellpadding="0" cellspacing="0">
         <tr>
           <td><img src="R1" width="24"></td>
