@@ -1,107 +1,351 @@
 <div align="center">
 
+<!-- ============================= -->
+
+<!--          G U R U              -->
+
+<!-- ============================= -->
+
 <table border="0" cellpadding="0" cellspacing="0">
-  <tr>
+<tr>
 
-  <td valign="top">
-      <table border="0" cellpadding="0" cellspacing="0">
-        <tr>
-          <td><img src="G1" width="24"></td>
-          <td><img src="G2" width="24"></td>
-          <td><img src="G3" width="24"></td>
-        </tr>
-        <tr>
-          <td><img src="G4" width="24"></td>
-        </tr>
-        <tr>
-          <td><img src="G5" width="24"></td>
-          <td><img src="G6" width="24"></td>
-          <td><img src="G7" width="24"></td>
-        </tr>
-        <tr>
-          <td><img src="G8" width="24"></td>
-          <td></td>
-          <td><img src="G9" width="24"></td>
-        </tr>
-        <tr>
-          <td><img src="G10" width="24"></td>
-          <td><img src="G11" width="24"></td>
-          <td><img src="G12" width="24"></td>
-        </tr>
-      </table>
-    </td>
+<!-- G -->
 
-    <!-- U -->
-   <td valign="top">
-      <table border="0" cellpadding="0" cellspacing="0">
-        <tr>
-          <td><img src="U1" width="24"></td>
-          <td></td>
-          <td><img src="U2" width="24"></td>
-        </tr>
-        <tr>
-          <td><img src="U3" width="24"></td>
-          <td></td>
-          <td><img src="U4" width="24"></td>
-        </tr>
-        <tr>
-          <td><img src="U5" width="24"></td>
-          <td></td>
-          <td><img src="U6" width="24"></td>
-        </tr>
-        <tr>
-          <td><img src="U7" width="24"></td>
-          <td></td>
-          <td><img src="U8" width="24"></td>
-        </tr>
-        <tr>
-          <td><img src="U9" width="24"></td>
-          <td><img src="U10" width="24"></td>
-          <td><img src="U11" width="24"></td>
-        </tr>
-      </table>
-    </td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="G1" width="22"></td>
+<td><img src="G2" width="22"></td>
+<td><img src="G3" width="22"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="G4" width="22"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="G5" width="22"></td>
+<td><img src="G6" width="22"></td>
+<td><img src="G7" width="22"></td>
+<td><img src="G8" width="22"></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="G9" width="22"></td>
+<td></td>
+<td></td>
+<td><img src="G10" width="22"></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="G11" width="22"></td>
+<td><img src="G12" width="22"></td>
+<td><img src="G13" width="22"></td>
+<td><img src="G14" width="22"></td>
+<td></td>
+</tr>
+</table>
+</td>
 
-    <!-- R -->
-   <td valign="top">
-      <table border="0" cellpadding="0" cellspacing="0">
-        <tr>
-          <td><img src="R1" width="24"></td>
-          <td><img src="R2" width="24"></td>
-          <td><img src="R3" width="24"></td>
-        </tr>
-        <tr>
-          <td><img src="R4" width="24"></td>
-          <td></td>
-          <td><img src="R5" width="24"></td>
-        </tr>
-        <tr>
-          <td><img src="R6" width="24"></td>
-          <td><img src="R7" width="24"></td>
-          <td><img src="R8" width="24"></td>
-        </tr>
-        <tr>
-          <td><img src="R9" width="24"></td>
-          <td></td>
-          <td><img src="R10" width="24"></td>
-        </tr>
-        <tr>
-          <td><img src="R11" width="24"></td>
-          <td></td>
-          <td><img src="R12" width="24"></td>
-        </tr>
-      </table>
-    </td>
+<td width="12"></td>
 
-    <!-- U -->
-   <td valign="top">
-      <!-- same U pattern -->
-    </td>
+<!-- U -->
 
-  </tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="U1" width="22"></td>
+<td></td>
+<td></td>
+<td><img src="U2" width="22"></td>
+</tr>
+<tr>
+<td><img src="U3" width="22"></td>
+<td></td>
+<td></td>
+<td><img src="U4" width="22"></td>
+</tr>
+<tr>
+<td><img src="U5" width="22"></td>
+<td></td>
+<td></td>
+<td><img src="U6" width="22"></td>
+</tr>
+<tr>
+<td><img src="U7" width="22"></td>
+<td></td>
+<td></td>
+<td><img src="U8" width="22"></td>
+</tr>
+<tr>
+<td><img src="U9" width="22"></td>
+<td><img src="U10" width="22"></td>
+<td><img src="U11" width="22"></td>
+<td><img src="U12" width="22"></td>
+</tr>
+</table>
+</td>
+
+<td width="12"></td>
+
+<!-- R -->
+
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="R1" width="22"></td>
+<td><img src="R2" width="22"></td>
+<td><img src="R3" width="22"></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="R4" width="22"></td>
+<td></td>
+<td></td>
+<td><img src="R5" width="22"></td>
+</tr>
+<tr>
+<td><img src="R6" width="22"></td>
+<td><img src="R7" width="22"></td>
+<td><img src="R8" width="22"></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="R9" width="22"></td>
+<td></td>
+<td><img src="R10" width="22"></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="R11" width="22"></td>
+<td></td>
+<td></td>
+<td><img src="R12" width="22"></td>
+</tr>
+</table>
+</td>
+
+<td width="12"></td>
+
+<!-- U -->
+
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="U13" width="22"></td>
+<td></td>
+<td></td>
+<td><img src="U14" width="22"></td>
+</tr>
+<tr>
+<td><img src="U15" width="22"></td>
+<td></td>
+<td></td>
+<td><img src="U16" width="22"></td>
+</tr>
+<tr>
+<td><img src="U17" width="22"></td>
+<td></td>
+<td></td>
+<td><img src="U18" width="22"></td>
+</tr>
+<tr>
+<td><img src="U19" width="22"></td>
+<td></td>
+<td></td>
+<td><img src="U20" width="22"></td>
+</tr>
+<tr>
+<td><img src="U21" width="22"></td>
+<td><img src="U22" width="22"></td>
+<td><img src="U23" width="22"></td>
+<td><img src="U24" width="22"></td>
+</tr>
+</table>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ============================= -->
+
+<!--          P A T I L            -->
+
+<!-- ============================= -->
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+
+<!-- P -->
+
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="P1" width="22"></td>
+<td><img src="P2" width="22"></td>
+<td><img src="P3" width="22"></td>
+</tr>
+<tr>
+<td><img src="P4" width="22"></td>
+<td></td>
+<td><img src="P5" width="22"></td>
+</tr>
+<tr>
+<td><img src="P6" width="22"></td>
+<td><img src="P7" width="22"></td>
+<td><img src="P8" width="22"></td>
+</tr>
+<tr>
+<td><img src="P9" width="22"></td>
+</tr>
+<tr>
+<td><img src="P10" width="22"></td>
+</tr>
+</table>
+</td>
+
+<td width="12"></td>
+
+<!-- A -->
+
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td></td>
+<td><img src="A1" width="22"></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="A2" width="22"></td>
+<td></td>
+<td><img src="A3" width="22"></td>
+</tr>
+<tr>
+<td><img src="A4" width="22"></td>
+<td><img src="A5" width="22"></td>
+<td><img src="A6" width="22"></td>
+</tr>
+<tr>
+<td><img src="A7" width="22"></td>
+<td></td>
+<td><img src="A8" width="22"></td>
+</tr>
+<tr>
+<td><img src="A9" width="22"></td>
+<td></td>
+<td><img src="A10" width="22"></td>
+</tr>
+</table>
+</td>
+
+<td width="12"></td>
+
+<!-- T -->
+
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="T1" width="22"></td>
+<td><img src="T2" width="22"></td>
+<td><img src="T3" width="22"></td>
+<td><img src="T4" width="22"></td>
+<td><img src="T5" width="22"></td>
+</tr>
+<tr>
+<td></td>
+<td><img src="T6" width="22"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><img src="T7" width="22"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><img src="T8" width="22"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><img src="T9" width="22"></td>
+<td></td>
+</tr>
+</table>
+</td>
+
+<td width="12"></td>
+
+<!-- I -->
+
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="I1" width="22"></td>
+<td><img src="I2" width="22"></td>
+<td><img src="I3" width="22"></td>
+</tr>
+<tr>
+<td></td>
+<td><img src="I4" width="22"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><img src="I5" width="22"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><img src="I6" width="22"></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="I7" width="22"></td>
+<td><img src="I8" width="22"></td>
+<td><img src="I9" width="22"></td>
+</tr>
+</table>
+</td>
+
+<td width="12"></td>
+
+<!-- L -->
+
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="L1" width="22"></td>
+</tr>
+<tr>
+<td><img src="L2" width="22"></td>
+</tr>
+<tr>
+<td><img src="L3" width="22"></td>
+</tr>
+<tr>
+<td><img src="L4" width="22"></td>
+</tr>
+<tr>
+<td><img src="L5" width="22"></td>
+<td><img src="L6" width="22"></td>
+<td><img src="L7" width="22"></td>
+<td><img src="L8" width="22"></td>
+</tr>
+</table>
+</td>
+
+</tr>
 </table>
 
 </div>
+
 
 
 
