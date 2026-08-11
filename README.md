@@ -1,3 +1,295 @@
+<!-- =====================================================
+     GURU PATIL — ANIME CHARACTER PIXEL SIGNATURE
+     Replace every IMG_xx with your character GIF URL
+     Recommended image size: 28–35px
+     ===================================================== -->
+
+<div align="center">
+
+<!-- ===================== GURU ===================== -->
+
+<table cellpadding="1" cellspacing="0">
+<tr>
+
+<!-- G -->
+
+<td><img src="IMG_01" width="32"></td>
+<td><img src="IMG_02" width="32"></td>
+<td><img src="IMG_03" width="32"></td>
+<td></td>
+
+<!-- U -->
+
+<td><img src="IMG_04" width="32"></td>
+<td></td>
+<td><img src="IMG_05" width="32"></td>
+<td></td>
+
+<!-- R -->
+
+<td><img src="IMG_06" width="32"></td>
+<td><img src="IMG_07" width="32"></td>
+<td><img src="IMG_08" width="32"></td>
+<td></td>
+
+<!-- U -->
+
+<td><img src="IMG_09" width="32"></td>
+<td></td>
+<td><img src="IMG_10" width="32"></td>
+
+</tr>
+
+<tr>
+
+<td><img src="IMG_11" width="32"></td>
+<td></td>
+<td></td>
+<td></td>
+
+<td><img src="IMG_12" width="32"></td>
+<td></td>
+<td><img src="IMG_13" width="32"></td>
+<td></td>
+
+<td><img src="IMG_14" width="32"></td>
+<td></td>
+<td><img src="IMG_15" width="32"></td>
+<td></td>
+
+<td><img src="IMG_16" width="32"></td>
+<td></td>
+<td><img src="IMG_17" width="32"></td>
+
+</tr>
+
+<tr>
+
+<td><img src="IMG_18" width="32"></td>
+<td><img src="IMG_19" width="32"></td>
+<td><img src="IMG_20" width="32"></td>
+<td></td>
+
+<td><img src="IMG_21" width="32"></td>
+<td></td>
+<td><img src="IMG_22" width="32"></td>
+<td></td>
+
+<td><img src="IMG_23" width="32"></td>
+<td><img src="IMG_24" width="32"></td>
+<td><img src="IMG_25" width="32"></td>
+<td></td>
+
+<td><img src="IMG_26" width="32"></td>
+<td></td>
+<td><img src="IMG_27" width="32"></td>
+
+</tr>
+
+<tr>
+
+<td><img src="IMG_28" width="32"></td>
+<td></td>
+<td><img src="IMG_29" width="32"></td>
+<td></td>
+
+<td><img src="IMG_30" width="32"></td>
+<td></td>
+<td><img src="IMG_31" width="32"></td>
+<td></td>
+
+<td><img src="IMG_32" width="32"></td>
+<td></td>
+<td><img src="IMG_33" width="32"></td>
+<td></td>
+
+<td><img src="IMG_34" width="32"></td>
+<td></td>
+<td><img src="IMG_35" width="32"></td>
+
+</tr>
+
+<tr>
+
+<td><img src="IMG_36" width="32"></td>
+<td><img src="IMG_37" width="32"></td>
+<td><img src="IMG_38" width="32"></td>
+<td></td>
+
+<td><img src="IMG_39" width="32"></td>
+<td><img src="IMG_40" width="32"></td>
+<td><img src="IMG_41" width="32"></td>
+<td></td>
+
+<td><img src="IMG_42" width="32"></td>
+<td></td>
+<td><img src="IMG_43" width="32"></td>
+<td></td>
+
+<td><img src="IMG_44" width="32"></td>
+<td><img src="IMG_45" width="32"></td>
+<td><img src="IMG_46" width="32"></td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ===================== PATIL ===================== -->
+
+<table cellpadding="1" cellspacing="0">
+<tr>
+
+<!-- P -->
+
+<td><img src="IMG_47" width="32"></td>
+<td><img src="IMG_48" width="32"></td>
+<td><img src="IMG_49" width="32"></td>
+<td></td>
+
+<!-- A -->
+
+<td><img src="IMG_50" width="32"></td>
+<td><img src="IMG_51" width="32"></td>
+<td><img src="IMG_52" width="32"></td>
+<td></td>
+
+<!-- T -->
+
+<td><img src="IMG_53" width="32"></td>
+<td><img src="IMG_54" width="32"></td>
+<td><img src="IMG_55" width="32"></td>
+<td></td>
+
+<!-- I -->
+
+<td><img src="IMG_56" width="32"></td>
+<td></td>
+
+<!-- L -->
+
+<td><img src="IMG_57" width="32"></td>
+<td><img src="IMG_58" width="32"></td>
+<td><img src="IMG_59" width="32"></td>
+
+</tr>
+
+<!-- Row 2 -->
+
+<tr>
+
+<td><img src="IMG_60" width="32"></td>
+<td></td>
+<td><img src="IMG_61" width="32"></td>
+<td></td>
+
+<td><img src="IMG_62" width="32"></td>
+<td></td>
+<td><img src="IMG_63" width="32"></td>
+<td></td>
+
+<td></td>
+<td><img src="IMG_64" width="32"></td>
+<td></td>
+<td></td>
+
+<td><img src="IMG_65" width="32"></td>
+<td></td>
+
+<td><img src="IMG_66" width="32"></td>
+
+</tr>
+
+<!-- Row 3 -->
+
+<tr>
+
+<td><img src="IMG_67" width="32"></td>
+<td><img src="IMG_68" width="32"></td>
+<td><img src="IMG_69" width="32"></td>
+<td></td>
+
+<td><img src="IMG_70" width="32"></td>
+<td><img src="IMG_71" width="32"></td>
+<td><img src="IMG_72" width="32"></td>
+<td></td>
+
+<td></td>
+<td><img src="IMG_73" width="32"></td>
+<td></td>
+<td></td>
+
+<td><img src="IMG_74" width="32"></td>
+<td></td>
+
+<td><img src="IMG_75" width="32"></td>
+
+</tr>
+
+<!-- Row 4 -->
+
+<tr>
+
+<td><img src="IMG_76" width="32"></td>
+<td></td>
+<td></td>
+<td></td>
+
+<td><img src="IMG_77" width="32"></td>
+<td></td>
+<td><img src="IMG_78" width="32"></td>
+<td></td>
+
+<td></td>
+<td><img src="IMG_79" width="32"></td>
+<td></td>
+<td></td>
+
+<td><img src="IMG_80" width="32"></td>
+<td></td>
+
+<td><img src="IMG_81" width="32"></td>
+
+</tr>
+
+<!-- Row 5 -->
+
+<tr>
+
+<td><img src="IMG_82" width="32"></td>
+<td></td>
+<td></td>
+<td></td>
+
+<td><img src="IMG_83" width="32"></td>
+<td></td>
+<td><img src="IMG_84" width="32"></td>
+<td></td>
+
+<td><img src="IMG_85" width="32"></td>
+<td><img src="IMG_86" width="32"></td>
+<td><img src="IMG_87" width="32"></td>
+<td></td>
+
+<td><img src="IMG_88" width="32"></td>
+<td></td>
+
+<td><img src="IMG_89" width="32"></td>
+<td><img src="IMG_90" width="32"></td>
+<td><img src="IMG_91" width="32"></td>
+
+</tr>
+
+</table>
+
+</div>
+
+
+<h2 align="center"> THE Characters </h2>
+
+<p align="center">
+  <i>Characters that live rent-free in my head.</i>
+</p>
 <table width="100%">
 <tr>
 <td
@@ -51,11 +343,7 @@
 </td>
 </tr>
 </table>
-<h2 align="center"> THE Characters </h2>
 
-<p align="center">
-  <i>Characters that live rent-free in my head.</i>
-</p>
 
 <br>
 
