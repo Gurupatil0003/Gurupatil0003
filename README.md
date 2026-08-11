@@ -18,7 +18,7 @@
 >
 
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/output-onlinegiftools%20(1).gif" width="80">
-<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/dj3hxu4-557ead6f-6cf4-42f1-ae4e-faaaed263129.gif" width="80">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/dj3hxu4-557ead6f-6cf4-42f1-ae4e-faaaed263129.gif" width="150">
 <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/dg880ya-14935c6e-98fc-4601-80e1-44a52ccaa0f8_transparent%20(1).gif" width="60" height="70">
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/ZLBh.gif" width="60">
 <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/piccolo-floating-dbz.gif" width="60">
