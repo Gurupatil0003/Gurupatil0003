@@ -94,7 +94,7 @@
     </td>
 
     <!-- U -->
-    <td valign="top">
+   <td valign="top">
       <!-- same U pattern -->
     </td>
 
