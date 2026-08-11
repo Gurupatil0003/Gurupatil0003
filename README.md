@@ -48,7 +48,7 @@
 <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/onepiece/sabohat-sabo-hat.gif" width="35">
 <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/onepiece/sanji-one-pice%20(1).gif" width="80">
 <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/onepiece/one-piece-pixel%20(6).gif" width="100">
-<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/onepiece/one-piece-pixel%20(5).gif" width="50">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/onepiece/katakuri-one.gif" width="50">
 <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/onepiece/one-piece-pixel%20(2).gif" width="50">
 <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/onepiece/one-piece-franky%20(1).gif" width="50">
 <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/onepiece/chopper-one-piece.gif" width="50">
