@@ -1,28 +1,106 @@
 <div align="center">
 
-<pre>
-<!-- =========================
-       G U R U
-     ========================= -->
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
 
-<img src="IMG_01" width="24"><img src="IMG_02" width="24"><img src="IMG_03" width="24">     <img src="IMG_04" width="24"> <img src="IMG_05" width="24">     <img src="IMG_06" width="24"><img src="IMG_07" width="24"><img src="IMG_08" width="24">     <img src="IMG_09" width="24"> <img src="IMG_10" width="24">
-<img src="IMG_11" width="24">                         <img src="IMG_12" width="24"> <img src="IMG_13" width="24">     <img src="IMG_14" width="24">     <img src="IMG_15" width="24"> <img src="IMG_16" width="24">
-<img src="IMG_17" width="24"><img src="IMG_18" width="24"><img src="IMG_19" width="24">     <img src="IMG_20" width="24"> <img src="IMG_21" width="24">     <img src="IMG_22" width="24"><img src="IMG_23" width="24"><img src="IMG_24" width="24">     <img src="IMG_25" width="24"> <img src="IMG_26" width="24">
-<img src="IMG_27" width="24">                 <img src="IMG_28" width="24"> <img src="IMG_29" width="24">     <img src="IMG_30" width="24">         <img src="IMG_31" width="24"> <img src="IMG_32" width="24">
-<img src="IMG_33" width="24"><img src="IMG_34" width="24"><img src="IMG_35" width="24">     <img src="IMG_36" width="24"><img src="IMG_37" width="24"><img src="IMG_38" width="24">     <img src="IMG_39" width="24">         <img src="IMG_40" width="24"><img src="IMG_41" width="24">
+    <!-- G -->
+    <td valign="top">
+      <table border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><img src="G1" width="24"></td>
+          <td><img src="G2" width="24"></td>
+          <td><img src="G3" width="24"></td>
+        </tr>
+        <tr>
+          <td><img src="G4" width="24"></td>
+        </tr>
+        <tr>
+          <td><img src="G5" width="24"></td>
+          <td><img src="G6" width="24"></td>
+          <td><img src="G7" width="24"></td>
+        </tr>
+        <tr>
+          <td><img src="G8" width="24"></td>
+          <td></td>
+          <td><img src="G9" width="24"></td>
+        </tr>
+        <tr>
+          <td><img src="G10" width="24"></td>
+          <td><img src="G11" width="24"></td>
+          <td><img src="G12" width="24"></td>
+        </tr>
+      </table>
+    </td>
 
+    <!-- U -->
+    <td valign="top">
+      <table border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><img src="U1" width="24"></td>
+          <td></td>
+          <td><img src="U2" width="24"></td>
+        </tr>
+        <tr>
+          <td><img src="U3" width="24"></td>
+          <td></td>
+          <td><img src="U4" width="24"></td>
+        </tr>
+        <tr>
+          <td><img src="U5" width="24"></td>
+          <td></td>
+          <td><img src="U6" width="24"></td>
+        </tr>
+        <tr>
+          <td><img src="U7" width="24"></td>
+          <td></td>
+          <td><img src="U8" width="24"></td>
+        </tr>
+        <tr>
+          <td><img src="U9" width="24"></td>
+          <td><img src="U10" width="24"></td>
+          <td><img src="U11" width="24"></td>
+        </tr>
+      </table>
+    </td>
 
-<!-- =========================
-       P A T I L
-     ========================= -->
+    <!-- R -->
+    <td valign="top">
+      <table border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><img src="R1" width="24"></td>
+          <td><img src="R2" width="24"></td>
+          <td><img src="R3" width="24"></td>
+        </tr>
+        <tr>
+          <td><img src="R4" width="24"></td>
+          <td></td>
+          <td><img src="R5" width="24"></td>
+        </tr>
+        <tr>
+          <td><img src="R6" width="24"></td>
+          <td><img src="R7" width="24"></td>
+          <td><img src="R8" width="24"></td>
+        </tr>
+        <tr>
+          <td><img src="R9" width="24"></td>
+          <td></td>
+          <td><img src="R10" width="24"></td>
+        </tr>
+        <tr>
+          <td><img src="R11" width="24"></td>
+          <td></td>
+          <td><img src="R12" width="24"></td>
+        </tr>
+      </table>
+    </td>
 
-<img src="IMG_42" width="24"><img src="IMG_43" width="24"><img src="IMG_44" width="24">     <img src="IMG_45" width="24"><img src="IMG_46" width="24"><img src="IMG_47" width="24">     <img src="IMG_48" width="24"><img src="IMG_49" width="24"><img src="IMG_50" width="24"><img src="IMG_51" width="24"><img src="IMG_52" width="24">     <img src="IMG_53" width="24"><img src="IMG_54" width="24"><img src="IMG_55" width="24">     <img src="IMG_56" width="24">
-<img src="IMG_57" width="24">     <img src="IMG_58" width="24">     <img src="IMG_59" width="24">         <img src="IMG_60" width="24">         <img src="IMG_61" width="24">
-<img src="IMG_62" width="24"><img src="IMG_63" width="24"><img src="IMG_64" width="24">     <img src="IMG_65" width="24"><img src="IMG_66" width="24"><img src="IMG_67" width="24"><img src="IMG_68" width="24">     <img src="IMG_69" width="24">         <img src="IMG_70" width="24">         <img src="IMG_71" width="24">
-<img src="IMG_72" width="24">                 <img src="IMG_73" width="24"><img src="IMG_74" width="24">     <img src="IMG_75" width="24">         <img src="IMG_76" width="24">         <img src="IMG_77" width="24">
-<img src="IMG_78" width="24">                 <img src="IMG_79" width="24"><img src="IMG_80" width="24">     <img src="IMG_81" width="24">         <img src="IMG_82" width="24"><img src="IMG_83" width="24"><img src="IMG_84" width="24">     <img src="IMG_85" width="24"><img src="IMG_86" width="24"><img src="IMG_87" width="24"><img src="IMG_88" width="24"><img src="IMG_89" width="24">
+    <!-- U -->
+    <td valign="top">
+      <!-- same U pattern -->
+    </td>
 
-</pre>
+  </tr>
+</table>
 
 </div>
 
