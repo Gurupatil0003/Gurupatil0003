@@ -285,6 +285,220 @@
 </div>
 
 
+<div align="center">
+
+<table cellpadding="1" cellspacing="0">
+
+<!-- ROW 1 -->
+
+<tr>
+
+<!-- P -->
+
+<td><img src="P1" width="32"></td>
+<td><img src="P2" width="32"></td>
+<td><img src="P3" width="32"></td>
+<td>&nbsp;</td>
+
+<!-- A -->
+
+<td><img src="A1" width="32"></td>
+<td><img src="A2" width="32"></td>
+<td><img src="A3" width="32"></td>
+<td>&nbsp;</td>
+
+<!-- T -->
+
+<td><img src="T1" width="32"></td>
+<td><img src="T2" width="32"></td>
+<td><img src="T3" width="32"></td>
+<td><img src="T4" width="32"></td>
+<td><img src="T5" width="32"></td>
+<td>&nbsp;</td>
+
+<!-- I -->
+
+<td><img src="I1" width="32"></td>
+<td><img src="I2" width="32"></td>
+<td><img src="I3" width="32"></td>
+<td>&nbsp;</td>
+
+<!-- L -->
+
+<td><img src="L1" width="32"></td>
+
+</tr>
+
+<!-- ROW 2 -->
+
+<tr>
+
+<!-- P -->
+
+<td><img src="P4" width="32"></td>
+<td>&nbsp;</td>
+<td><img src="P5" width="32"></td>
+<td>&nbsp;</td>
+
+<!-- A -->
+
+<td><img src="A4" width="32"></td>
+<td>&nbsp;</td>
+<td><img src="A5" width="32"></td>
+<td>&nbsp;</td>
+
+<!-- T -->
+
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td><img src="T6" width="32"></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+
+<!-- I -->
+
+<td>&nbsp;</td>
+<td><img src="I4" width="32"></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+
+<!-- L -->
+
+<td><img src="L2" width="32"></td>
+
+</tr>
+
+<!-- ROW 3 -->
+
+<tr>
+
+<!-- P -->
+
+<td><img src="P6" width="32"></td>
+<td><img src="P7" width="32"></td>
+<td><img src="P8" width="32"></td>
+<td>&nbsp;</td>
+
+<!-- A -->
+
+<td><img src="A6" width="32"></td>
+<td><img src="A7" width="32"></td>
+<td><img src="A8" width="32"></td>
+<td><img src="A9" width="32"></td>
+<td>&nbsp;</td>
+
+<!-- T -->
+
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td><img src="T7" width="32"></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+
+<!-- I -->
+
+<td>&nbsp;</td>
+<td><img src="I5" width="32"></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+
+<!-- L -->
+
+<td><img src="L3" width="32"></td>
+
+</tr>
+
+<!-- ROW 4 -->
+
+<tr>
+
+<!-- P -->
+
+<td><img src="P9" width="32"></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+
+<!-- A -->
+
+<td><img src="A10" width="32"></td>
+<td><img src="A11" width="32"></td>
+<td><img src="A12" width="32"></td>
+<td>&nbsp;</td>
+
+<!-- T -->
+
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td><img src="T8" width="32"></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+
+<!-- I -->
+
+<td>&nbsp;</td>
+<td><img src="I6" width="32"></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+
+<!-- L -->
+
+<td><img src="L4" width="32"></td>
+
+</tr>
+
+<!-- ROW 5 -->
+
+<tr>
+
+<!-- P -->
+
+<td><img src="P10" width="32"></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+
+<!-- A -->
+
+<td><img src="A13" width="32"></td>
+<td><img src="A14" width="32"></td>
+<td><img src="A15" width="32"></td>
+<td>&nbsp;</td>
+
+<!-- T -->
+
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td><img src="T9" width="32"></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+
+<!-- I -->
+
+<td><img src="I7" width="32"></td>
+<td><img src="I8" width="32"></td>
+<td><img src="I9" width="32"></td>
+<td>&nbsp;</td>
+
+<!-- L -->
+
+<td><img src="L5" width="32"></td>
+<td><img src="L6" width="32"></td>
+<td><img src="L7" width="32"></td>
+<td><img src="L8" width="32"></td>
+<td><img src="L9" width="32"></td>
+
+</tr>
+
+</table>
+
+</div>
+
+
 <h2 align="center"> THE Characters </h2>
 
 <p align="center">
