@@ -21,6 +21,7 @@
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/naruto-and-hinata-laying-down-pixel-art-5pf1oap1qunf3v5x.webp" width="35">
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/ZLBh.gif" width="35">
 <img src="https://raw.githubusercontent.com/Gurupatil0003/Gurupatil0003/main/asset/dbz-goku_transparent.gif" width="35">
+<br>
 
 <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/a-cartoon-of-luffy-from-one-piece-running-with-a-tail-2wgrgz8171qzbci4.webp" width="35">
 <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/a-drawing-of-a-man-in-a-straw-hat-standing-in-front-of-a-pink-light-9ul7hedy6bp3uekq.webp" width="35">
